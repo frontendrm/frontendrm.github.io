@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # Web Components - UI Components for Modern Web Apps
@@ -8,5 +8,3 @@ published: false
 
 Carsten Sandtner
 [@casarock](http://twitter.com/casarock)
-
-
