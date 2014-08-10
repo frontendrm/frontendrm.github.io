@@ -3,16 +3,19 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">    
-      
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	{% for post in site.posts %}
+	<article class="post">
 
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		<h2>{{ post.subtitle }}</h2>
+		<p class="author">{{post.author}}</p>
+		<p class="topic">{{post.topics}}</p>
+
+		<div class="entry">
+			<!--{{ post.content | truncatewords:40}}-->
+			{{ post.content}}
+		</div>
+
+	</article>
+	{% endfor %}
 </div>

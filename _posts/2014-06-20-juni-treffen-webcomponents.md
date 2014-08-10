@@ -1,4 +1,9 @@
 ---
+layout: post
+title: "Web Components - UI Components for Modern Web Apps (Slides)"
+subtitle: Talk vom Juni-Treffen 2014
+author: Carsten Sandtner [@casarock](http://twitter.com/casarock)
+topics: webcomponents
 published: true
 ---
 
