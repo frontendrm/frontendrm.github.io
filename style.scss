@@ -176,6 +176,10 @@ img {
   width: 270px;
   height: auto;
   margin-right: 15px;
+  a:hover,
+  a:active {
+    background: none;
+  }
 
   @include mobile {
     float: none;
@@ -274,6 +278,18 @@ nav {
       display: inline;
       padding-right: 0.5em;
     }
+    &:after {
+      content: ">";
+      color: $white;
+      display: inline;
+      padding-left: 0.5em;
+    }
+    &.has-subtitle:after {
+      display: none;
+    }
+  }
+
+  h2 {
     &:after {
       content: ">";
       color: $white;
