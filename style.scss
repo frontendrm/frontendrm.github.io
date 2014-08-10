@@ -262,13 +262,10 @@ nav {
 .post {
   p.author,
   p.topic {
-    color: $gray;
-    span {
-      color: $black;
-    }
+    color: $lightgray;
   }
-  p.author {
-    margin-bottom: 0;
+  p.topic {
+    margin-top: 0;
   }
   blockquote {
     margin: 1.8em .8em;
