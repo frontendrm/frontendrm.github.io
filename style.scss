@@ -76,3 +76,27 @@ p {
   margin: 15px 0;
 }
 
+a {
+  color: $orange;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover,
+  &:active {
+    color: $lightbrown;
+    background: $brown;
+  }
+}
+
+ul, ol {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
