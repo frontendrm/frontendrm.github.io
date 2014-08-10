@@ -164,7 +164,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $gray;
+  border-bottom: 1px solid $lightgray;
 
   @include mobile {
     text-align: center;
@@ -272,16 +272,19 @@ nav {
   }
 
   h1 {
+    margin: 0;
     &:before {
       content: "<";
-      color: $white;
+      color: $orange;
       display: inline;
+      font-weight: bold;
       padding-right: 0.5em;
     }
     &:after {
       content: ">";
-      color: $white;
+      color: $orange;
       display: inline;
+      font-weight: bold;
       padding-left: 0.5em;
     }
     &.has-subtitle:after {
@@ -290,10 +293,13 @@ nav {
   }
 
   h2 {
+    padding-left: 1.5em;
+    margin: 0 0 1em 0;
     &:after {
       content: ">";
-      color: $white;
+      color: $orange;
       display: inline;
+      font-weight: bold;
       padding-left: 0.5em;
     }
   }
