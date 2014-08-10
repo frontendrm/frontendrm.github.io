@@ -6,10 +6,11 @@ layout: default
 	{% for post in site.posts %}
 	<article class="post">
 
-		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		<!--<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>-->
+		<h1>{{ post.title }}</h1>
 		<h2>{{ post.subtitle }}</h2>
-		<p class="author">{{post.author}}</p>
-		<p class="topic">{{post.topics}}</p>
+		<p class="author">Author: <span>{{post.author}}</span></p>
+		<p class="topic">Thema: <span>{{post.topics}}</span></p>
 
 		<div class="entry">
 			<!--{{ post.content | truncatewords:40}}-->
