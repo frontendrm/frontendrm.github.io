@@ -269,6 +269,14 @@ nav {
   h4 {
     color: $lightgray;
     margin: 0;
+    .author {
+      &:before {
+        content: '|';
+        display: inline;
+        padding: 0 0.5em;
+        color: $lightgray;
+      }
+    }
   }
 
   h1 {
@@ -304,13 +312,6 @@ nav {
     }
   }
 
-  p.author,
-  p.topic {
-    color: $lightgray;
-  }
-  p.topic {
-    margin-top: 0;
-  }
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -340,6 +341,16 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.made-in-rheinmain {
+  color: $white;
+  font-family: "Syncopate",sans-serif;
+  font-weight: 400;
+  padding: 1em 0;
+  span {
+    font-weight: 700;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
