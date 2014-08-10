@@ -126,3 +126,14 @@ img {
   font-style: italic;
   color: $gray;
 }
+
+// Specify the color of the selection
+::-moz-selection {
+  color: $lightbrown;
+  background: $brown;
+}
+
+::selection {
+  color: $lightbrown;
+  background: $brown;
+}
