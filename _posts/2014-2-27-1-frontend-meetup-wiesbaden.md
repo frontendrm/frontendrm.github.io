@@ -1,6 +1,9 @@
 ---
 layout: post
+pretitle: Bericht vom Februar-Treffen 2014
 title: "1. Frontend-Meetup Wiesbaden"
+author: Jan Deppisch
+author_twitter: netzartist
 published: true
 ---
 

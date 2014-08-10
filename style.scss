@@ -251,7 +251,8 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $gray;
+  margin-bottom: 2em;
+  border-bottom: 1px solid $lightgray;
 }
 
 .posts > .post:last-child {
@@ -260,6 +261,27 @@ nav {
 }
 
 .post {
+
+  h4 {
+    color: $lightgray;
+    margin: 0;
+  }
+
+  h1 {
+    &:before {
+      content: "<";
+      color: $white;
+      display: inline;
+      padding-right: 0.5em;
+    }
+    &:after {
+      content: ">";
+      color: $white;
+      display: inline;
+      padding-left: 0.5em;
+    }
+  }
+
   p.author,
   p.topic {
     color: $lightgray;

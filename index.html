@@ -10,10 +10,11 @@ layout: default
 		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 		-->
 
-		<h4>{{ post.pretitle }}</h4>
+		<h4>{{ post.pretitle }} | Autor: <a href="http://twitter.com/@{{post.author_twitter}}">{{post.author}}</a></h4>
 		<h1>{{ post.title }}</h1>
+		{% if post.subtitle %}
 		<h2>{{ post.subtitle }}</h2>
-		<p class="author">Talk von: <span><a href="http://twitter.com/@{{post.author_twitter}}">{{post.author}}</a></span></p>
+		{% endif %}
 
 		<!--
 		<p class="topic">Thema: <span>{{post.topics}}</span></p>
