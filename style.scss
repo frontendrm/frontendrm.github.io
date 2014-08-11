@@ -80,6 +80,8 @@ a {
   color: $orange;
   text-decoration: none;
   cursor: pointer;
+  padding: 2px 3px;
+  background: transparent;
   &:hover,
   &:active {
     color: $lightbrown;
@@ -233,46 +235,6 @@ nav {
     margin-top: 9px;
     display: block;
     font-size: 16px;
-  }
-
-  a {
-    position: relative;
-    display: inline-block;
-    vertical-align: bottom;
-    text-decoration: none;
-    white-space: nowrap;
-    transition: color 0.2s;
-  }
-
-  a.link-braces {
-    padding: 0 0.25em;
-    &:hover {
-      color: $orange;
-    }
-    &:before,
-    &:after {
-      color: $orange;
-      position: absolute;
-      top: 0;
-      font-weight: 100;
-      font-size: 150%;
-      line-height: 1;
-      opacity: 0;
-      -webkit-transition: opacity 0.2s, -webkit-transform 0.2s;
-      transition: opacity 0.2s, transform 0.2s;
-    }
-    &:before {
-      left: -0.1em;
-      content: '[';
-      -webkit-transform: translateX(-100%);
-      transform: translateX(-100%);
-    }
-    &:after {
-      right: -0.1em;
-      content: ']';
-      -webkit-transform: translateX(100%);
-      transform: translateX(100%);
-    }
   }
 
   a {
