@@ -349,8 +349,8 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-  &:hover,
-  &:active {
+  a:hover,
+  a:active {
     background: none;
   }
 }
