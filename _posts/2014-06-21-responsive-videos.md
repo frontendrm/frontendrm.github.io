@@ -8,6 +8,6 @@ author_twitter: wltrd
 published: true
 ---
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/35988567" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/35988567" width="720" height="494" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Slides](https://de.slideshare.net/walterebert/frontend-rm-responsivevideosmehroderweniger)

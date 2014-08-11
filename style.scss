@@ -273,8 +273,14 @@ nav {
       &:before {
         content: '|';
         display: inline;
-        padding: 0 0.5em;
+        padding: 0 0.75em 0 0.5em;
         color: $lightgray;
+      }
+      @include mobile {
+        display: block;
+        &:before {
+          display: none;
+        }
       }
     }
   }
