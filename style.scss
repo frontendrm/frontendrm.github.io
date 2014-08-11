@@ -246,8 +246,12 @@ nav {
 
   a.link-braces {
     padding: 0 0.25em;
+    &:hover {
+      color: $orange;
+    }
     &:before,
     &:after {
+      color: $orange;
       position: absolute;
       top: 0;
       font-weight: 100;
