@@ -7,12 +7,12 @@ author_twitter: netzartist
 published: true
 ---
 
-Es wird mal wieder Zeit für ein neues Treffen, oder? Dann votet mal für einen Termin:
+Der Termin für das September-Treffen steht endlich fest - leider etwas kurzfristig, wir hoffen trotzdem auf zahlreiche Teilnehmer. 
 
-[Doodle](http://doodle.com/h3nuex5vdqbfshb5)
-
-Auf mindestens einen spannenden Talk könnt ihr euch schon freuen:
+Aufdiesen Talk könnt ihr euch schon freuen:
 
 ScaramangaJS: Responsive website testing with CSS annotations" von [@ReneKriest](http://twitter.com/ReneKriest)
 
 Wer sich noch mit einem weiteren Talk beteiligen möchte, einfach [Bescheid](http://twitter.com/frontend_rm) sagen!
+
+Anfahrt und weitere Infos findet Ihr im [XING-Event](https://www.xing.com/events/september-treffen-frontend-usergroup-rheinmain-1446699)
