@@ -12,7 +12,7 @@ Der Termin für das September-Treffen steht endlich fest - leider etwas kurzfris
 Auf diesen Talk könnt ihr euch schon freuen:
 
 - ScaramangaJS: Responsive website testing with CSS annotations" von [@ReneKriest](http://twitter.com/ReneKriest)
-- "Aboce the fold" content von [Walter Ebert](https://twitter.com/wltrd)
+- "Above the fold" content von [Walter Ebert](https://twitter.com/wltrd)
 
 Wer sich noch mit einem weiteren Talk beteiligen möchte, einfach [Bescheid](http://twitter.com/frontend_rm) sagen!
 
