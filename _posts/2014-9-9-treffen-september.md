@@ -9,6 +9,8 @@ published: true
 
 Der Termin für das September-Treffen steht endlich fest - leider etwas kurzfristig, wir hoffen trotzdem auf zahlreiche Teilnehmer. 
 
+Mittwoch, 10.09. um 19 Uhr bei AOE in Wiesbaden (Luisenforum)
+
 Auf diese Talks könnt ihr euch freuen:
 
 - ScaramangaJS: Responsive website testing with CSS annotations" von [@ReneKriest](http://twitter.com/ReneKriest)
