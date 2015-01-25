@@ -11,6 +11,8 @@ Der Termin für das Januar-Treffen steht fest!
 
 Montag, 26.01. um 19 Uhr bei [Triplesense Reply](http://www.triplesensereply.de/) in Frankfurt
 
-Beide Talkslots sind noch offen. Wir freuen uns über Talkvorschläge, die Dauer ist ganz flexibel zwischen 10-30 Minuten.
+Talks:
+- "Mehr Effizienz durch eine integrative Arbeitsweise" (Daniel Fitzpatrick)
+- "Modern workflows in 'RWD' projects" (Jan Deppisch)
 
 Anfahrt und weitere Infos findet Ihr im [XING-Event](https://www.xing.com/events/januar-treffen-frontend-usergroup-rheinmain-1495537)
