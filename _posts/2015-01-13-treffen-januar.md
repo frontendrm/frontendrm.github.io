@@ -12,6 +12,7 @@ Der Termin für das Januar-Treffen steht fest!
 Montag, 26.01. um 19 Uhr bei [Triplesense Reply](http://www.triplesensereply.de/) in Frankfurt
 
 Talks:
+
 - "Mehr Effizienz durch eine integrative Arbeitsweise" (Daniel Fitzpatrick)
 - "Modern workflows in 'RWD' projects" (Jan Deppisch)
 
