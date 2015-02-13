@@ -18,4 +18,6 @@ Hier sind meine Slides:
 
 Da ich in den Slides ziemlich viele Themen angerissen habe, über die man jeweils wiederum tiefergehende eigene Diskussionen starten kann, starte ich auf meinem Blog in Kürze eine Artikelserie rund um “Moderne Projektworkflows”.
 
+An dieser Stelle nochmal herzlichen Dank an die [Triplesense Reply GmbH](http://www.triplesense.de) für das Locationsponsoring!
+
 Das nächste Treffen ist im März geplant und wird vermutlich als kleines Get-Together in einem Pub in Oxford während der [Smashing Conf](http://www.smashingconf.com) stattfinden :-) Meldet euch, wenn ihr auch auf der Konferenz seid und Lust auf Frontend-Talk bei einem Bierchen habt!
