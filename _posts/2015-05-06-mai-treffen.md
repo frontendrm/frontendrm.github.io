@@ -10,9 +10,11 @@ published: true
 Der Termin für das nächste Treffen steht jetzt fest!  Diesmal findet es erneut in Frankfurt statt :-)
 
 Wann: Donnerstag, 21. Mai um 19.00 Uhr
+
 Wo: [Coworking-Space "Die Zentrale"](http://www.die-zentrale-ffm.de/)
 
 Talks:
+
 - "SVG Icons mit SASS und Gulp" [Raphael Rychetsky](https://twitter.com/herzflimmern)
 - Slot noch frei! Interesse?
 
