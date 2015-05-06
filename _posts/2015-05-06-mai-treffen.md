@@ -15,7 +15,7 @@ Wo: [Coworking-Space "Die Zentrale"](http://www.die-zentrale-ffm.de/)
 
 Talks:
 
-- "SVG Icons mit SASS und Gulp" [Raphael Rychetsky](https://twitter.com/herzflimmern)
+- "SVG Icons mit SASS und Gulp" ([Raphael Rychetsky](https://twitter.com/herzflimmern))
 - Slot noch frei! Interesse?
 
 Wir haben einen Sponsor, der uns freundlicherweise mit Pizza und Getränken versorgen wird: Herzlichen Dank an die [Fintura GmbH](https://fintura.de/)!
