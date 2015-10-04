@@ -11,4 +11,4 @@ published: true
 
 Zum "SVG Icons"-Talk von [Raphael Rychetsky](https://twitter.com/herzflimmern) gibt es leider keine Slides.
 
-Herzlichen Dank an die [Fintura GmbH](https://fintura.de/) aus Darmstadt für Location- und Pizza-Sponsoring und an [Die Zentrale Coworking](https://www.die-zentrale-ffm.de/) für die klasse Location in Frankfurt! der Konferenz seid und Lust auf Frontend-Talk bei einem Bierchen habt!
+Herzlichen Dank an die [Fintura GmbH](https://fintura.de/) aus Darmstadt für Location- und Pizza-Sponsoring und an [Die Zentrale Coworking](https://www.die-zentrale-ffm.de/) für die klasse Location in Frankfurt!
