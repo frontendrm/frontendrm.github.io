@@ -1,7 +1,7 @@
 ---
 layout: post
 pretitle: Nächster Termin
-title: Oktober-Treffen - Thema: Polymer
+title: Oktober-Treffen
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
