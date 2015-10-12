@@ -9,14 +9,14 @@ published: true
 
 Nach einigen Monaten Sommerpause geht es jetzt wieder weiter!
 
-Wann: Montag, 12. Oktober um 19.00 Uhr
+Wann: Montag, <del>12.</del> 19. Oktober um 19.00 Uhr
 
 Wo: [AOE](http://www.aoe.com) in Wiesbaden ([Anfahrt](https://www.aoe.com/de/anfahrt/firmenzentrale.html))
 
 Talks:
 
 - "There's an element for that! - #polymer in production" ([Stephan Schmitz](https://twitter.com/bext0n))
-- noch frei
+- tba
 
 Pizza + Getränke werden freundlicherweise von AOE gesponsort, herzlichen Dank!
 
