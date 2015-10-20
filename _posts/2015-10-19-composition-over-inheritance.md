@@ -1,7 +1,7 @@
 ---
 layout: post
-pretitle: Composition Over Inheritance
-title: "Slides vom Oktober-Treffen"
+pretitle: Slides vom Oktober-Treffen
+title: "Composition Over Inheritance"
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
