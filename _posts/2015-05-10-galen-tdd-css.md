@@ -1,7 +1,7 @@
 ---
 layout: post
-pretitle: Testdriven CSS mit dem Galen-Framework
-title: "Slides vom Mai-Treffen"
+pretitle: Slides vom Mai-Treffen
+title: "Testdriven CSS mit dem Galen-Framework"
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
