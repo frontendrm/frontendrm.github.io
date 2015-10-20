@@ -1,7 +1,7 @@
 ---
 layout: post
-pretitle: Arbeitsweisen und Workflows
-title: "Slides vom Januar-Treffen"
+pretitle: Slides vom Januar-Treffen
+title: "Arbeitsweisen und Workflows im Frontend"
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
