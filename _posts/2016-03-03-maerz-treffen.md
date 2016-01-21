@@ -13,6 +13,7 @@ Wann: Do, 03.03.2016 um 19:00 Uhr
 Wo: [Triplesense Reply GmbH](http://www.triplesensereply.de), Frankfurt ([Anfahrt](http://www.triplesensereply.de/kontakt/))
 
 Talks:
+
 - "Domain Driven Design mit AngularJS 2 - Von DOM-Frickelei zu sauberer Architektur im Frontend" ([René Kriest](https://twitter.com/renekriest))
 - 2. Slot noch frei! Willst du einen Talk beitragen? Dann schicke einen Tweet an [@frontend_rm](https://twitter.com/frontend_rm)!
 
