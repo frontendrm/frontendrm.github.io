@@ -16,7 +16,7 @@ Wo: [Triplesense Reply GmbH](http://www.triplesensereply.de), Frankfurt ([Anfahr
 Talks:
 
 - "Domain Driven Design mit AngularJS 2 - Von DOM-Frickelei zu sauberer Architektur im Frontend" ([René Kriest](https://twitter.com/renekriest))
-- 2. Slot noch frei! Willst du einen Talk beitragen? Dann schicke einen Tweet an [@frontend_rm](https://twitter.com/frontend_rm)!
+- Weiterer Slot noch frei! Willst du einen Talk beitragen? Dann schicke einen Tweet an [@frontend_rm](https://twitter.com/frontend_rm)!
 
 Bei Pizza und Bier freuen wir uns über interessante Gespräche und lockeres Networking rund um Frontend-Themen :-)
 
