@@ -10,6 +10,7 @@ published: true
 Nach einer Winterpause geht's mit spannenden Themen im Jahr 2016 weiter!
 
 Wann: Do, 03.03.2016 um 19:00 Uhr
+
 Wo: [Triplesense Reply GmbH](http://www.triplesensereply.de), Frankfurt ([Anfahrt](http://www.triplesensereply.de/kontakt/))
 
 Talks:
