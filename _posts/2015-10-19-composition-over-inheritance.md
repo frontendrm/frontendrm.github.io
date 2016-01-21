@@ -12,5 +12,3 @@ Obwohl der Talk von Stephan Schmitz zu Webcomponents ausfallen musste, war es wi
 <iframe src="//slides.com/marcdix/coi/embed" width="720" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Ebenso herzlichen Dank an die [AOE GmbH](http://www.aoe.com/) für Location- und Pizza-Sponsoring!
-
-Das nächste Meetup wird im Dezember stattfinden, die Planungen dazu laufen bereits, also stay tuned!
