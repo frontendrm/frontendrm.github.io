@@ -13,5 +13,10 @@ Wir freuen uns immer über eure Vorschläge für interessante Talks. Einfach [an
 
 ## Location-Sponsoring
 
-Die Frontend Usergroup RheinMain wurde in Wiesbaden gestartet. Herzlichen Dank an dieser Stelle an [AOE](http://www.aoe.com) für das Sponsoring! Wir möchten uns jedoch nicht auf Wiesbaden beschränken, daher freuen wir uns, wenn andere Agenturen, z.B. in Frankfurt, Mainz oder Darmstadt, das ein oder andere Treffen mit der Bereitstellung einer Location unterstützen. Einfach [an frontend_rm tweeten](http://twitter.com/frontend_rm) oder eine [Mail](mailto:info@frontend-rheinmain.de) schreiben :-)
+Die Frontend Usergroup RheinMain wurde in Wiesbaden gestartet. Wir möchten uns jedoch nicht auf Wiesbaden beschränken, daher freuen wir uns, wenn andere Agenturen, z.B. in Frankfurt, Mainz oder Darmstadt, das ein oder andere Treffen mit der Bereitstellung einer Location unterstützen. Einfach [an frontend_rm tweeten](http://twitter.com/frontend_rm) oder eine [Mail](mailto:info@frontend-rheinmain.de) schreiben :-)
 
+Herzlichen Dank den bisherigen Sponsoren:
+- [AOE](http://www.aoe.com), Wiesbaden
+- [Triplesense Reply GmbH](http://www.triplesense.de), Frankfurt
+- [Die Zentrale Coworking](https://www.die-zentrale-ffm.de/), Frankfurt
+- [Fintura GmbH](https://fintura.de/), Darmstadt
