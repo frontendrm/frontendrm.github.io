@@ -20,4 +20,6 @@ Talks:
 
 Bei Pizza und Bier freuen wir uns über interessante Gespräche und lockeres Networking rund um Frontend-Themen :-)
 
+Die Teilnahme ist wie immer kostenlos - bitte meldet euch über das [XING-Event](https://www.xing.com/events/marz-treffen-frontend-usergroup-rheinmain-1644194) an, vielen Dank.
+
 Bis bald!
