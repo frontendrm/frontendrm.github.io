@@ -17,7 +17,7 @@ Die Frontend Usergroup RheinMain wurde in Wiesbaden gestartet. Wir möchten uns 
 
 Herzlichen Dank den bisherigen Sponsoren:
 
-- [AOE](http://www.aoe.com), Wiesbaden
-- [Triplesense Reply GmbH](http://www.triplesense.de), Frankfurt
-- [Die Zentrale Coworking](https://www.die-zentrale-ffm.de/), Frankfurt
-- [Fintura GmbH](https://fintura.de/), Darmstadt
+- [AOE GmbH](http://www.aoe.com), Wiesbaden
+- [Triplesense Reply GmbH](http://www.triplesensereply.de/), Frankfurt
+- [Die Zentrale Coworking](http://www.die-zentrale-ffm.de/), Frankfurt
+- [Fintura GmbH](http://fintura.de/), Darmstadt
