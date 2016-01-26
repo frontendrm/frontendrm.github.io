@@ -16,8 +16,8 @@ Wo: [Triplesense Reply GmbH](http://www.triplesensereply.de), Frankfurt ([Anfahr
 Talks:
 
 - "Domain Driven Design mit AngularJS 2 - Von DOM-Frickelei zu sauberer Architektur im Frontend" ([René Kriest](https://twitter.com/renekriest))
-- "High Performance Images" ([Walter Ebert](@wltrd))
-- Weiterer Slot noch frei! Willst du einen Talk beitragen? Dann schicke einen Tweet an [@frontend_rm](https://twitter.com/frontend_rm)!
+- "High Performance Images" ([Walter Ebert](https://twitter.com/wltrd))
+- "Agiles Testen != Fehlersuche" ([Igor Yaspas](https://twitter.com/igor_yaspas))
 
 Bei Pizza und Bier freuen wir uns über interessante Gespräche und lockeres Networking rund um Frontend-Themen :-)
 
