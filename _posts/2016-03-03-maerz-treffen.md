@@ -25,6 +25,6 @@ Gänzlich untechnisch ging es mit [Igor Yaspas](https://twitter.com/igor_yaspas)
 
 Es ergaben sich wieder einmal interessante Gespräche rund um die Talk- und allgemeine Frontend-Themen, und die Pausen zwischendrin boten neben Pizza- und Biergenuss viel Raum zum Kennenlernen und Networking. So waren die 3,5 Stunden sehr schnell vorbei.
 
-Danke für eure Teilnahme, danke für die Talks und danke für die Location!
+Danke für eure Teilnahme, danke für die Talks und danke [Triplesense Reply GmbH](http://www.triplesense.de) für Location + Verpflegung!
 
 Das nächste Treffen ist für Mai geplant. Stay tuned. Talks welcome ;-)
