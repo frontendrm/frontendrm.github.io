@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Talk vom September-Treffen 2014
+pretitle: Talk vom 3. Treffen (September 2014)
 title: "Above the fold content"
 author: Walter Ebert
 author_twitter: wltrd
