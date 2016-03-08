@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Talk vom Juni-Treffen 2014
+pretitle: Talk vom 2. Treffen (Juni 2014)
 title: "Web Components"
 subtitle: UI Components for Modern Web Apps
 author: Carsten Sandtner
