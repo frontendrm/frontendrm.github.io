@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Talk vom Juni-Treffen 2014
+pretitle: Talk vom 7. Treffen (Juni 2014)
 title: "Responsive Videos"
 subtitle: ... mehr oder weniger
 author: Walter Ebert
