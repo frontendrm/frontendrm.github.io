@@ -28,3 +28,5 @@ Es ergaben sich wieder einmal interessante Gespräche rund um die Talk- und allg
 Danke für eure Teilnahme, danke für die Talks und danke [Triplesense Reply GmbH](http://www.triplesense.de) für Location + Verpflegung!
 
 Das nächste Treffen ist für Mai geplant. Stay tuned. Talks welcome ;-)
+
+Constantin Noll (namics) hat einen [Blogpost(https://about.namics.com/2016/03/treffen-der-frontend-usergroup-rheinmain.html) über das Treffen geschrieben. *thumbsup*
