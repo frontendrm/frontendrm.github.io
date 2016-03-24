@@ -10,7 +10,7 @@ published: true
 Beim letzten Treffen, das nun endlich einmal auch in Frankfurt stattfand, ergab sich durch die Talks von mir und Daniel Fitzpatrick eine lebhafte und interessante Diskussion rund um das Thema integrative Arbeitsweise und moderne Workflows (nicht nur) im Frontend.
 
 Hier ist das PDF zu Dan’s Talk:
-[!["Mehr Effizienz durch eine integrative Arbeitsweise"]({{ site.url }}/assets/2015-01-25_Effizienz_im_Frontend.jpg)]({{ site.url }}/assets/download/2015-01-25_Effizienz_im_Frontend.pdf)
+[!["Mehr Effizienz durch eine integrative Arbeitsweise"]({{ site.url }}/assets/2015-01-25/slides/2015-01-25_Effizienz_im_Frontend.jpg)]({{ site.url }}/assets/2015-01-25/slides/2015-01-25_Effizienz_im_Frontend.pdf)
 
 Hier sind meine Slides:
 
