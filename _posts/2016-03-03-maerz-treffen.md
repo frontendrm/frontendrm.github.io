@@ -31,8 +31,8 @@ Das nächste Treffen ist für Mai geplant. Stay tuned. Talks welcome ;-)
 
 Constantin Noll ([namics](http://www.namics.com)) hat einen [Blogpost](https://about.namics.com/2016/03/treffen-der-frontend-usergroup-rheinmain.html) über das Treffen geschrieben.
 
-!['']({{ site.url }}/assets/2016-03-03/IMG_3976.jpg)
+![""]({{ site.url }}/assets/2016-03-03/img/IMG_3976.jpg)
 
-!['']({{ site.url }}/assets/2016-03-03/IMG_3979.jpg)
+![""]({{ site.url }}/assets/2016-03-03/img/IMG_3979.jpg)
 
-!['']({{ site.url }}/assets/2016-03-03/IMG_3982.jpg)
+![""]({{ site.url }}/assets/2016-03-03/img/IMG_3982.jpg)
