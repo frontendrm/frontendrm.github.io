@@ -23,7 +23,7 @@ Gänzlich untechnisch ging es mit [Igor Yaspas](https://twitter.com/igor_yaspas)
 
 [!["Agiles Testing"]({{ site.url }}/assets/2016-03-03/slides/2016-03-03_Agiles_Testing.jpg)]({{ site.url }}/assets/2016-03-03/slides/2016-03-03_Agiles_Testing.pdf)
 
-Es ergaben sich wieder einmal interessante Gespräche rund um die Talk- und allgemeine Frontend-Themen, und die Pausen zwischendrin boten neben Pizza- und Biergenuss viel Raum zum Kennenlernen und Networking. So waren die 3,5 Stunden sehr schnell vorbei.
+-Es ergaben sich wieder einmal interessante Gespräche rund um die Talk- und allgemeine Frontend-Themen, und die Pausen zwischendrin boten neben Pizza- und Biergenuss viel Raum zum Kennenlernen und Networking. So waren die 3,5 Stunden sehr schnell vorbei.
 
 Danke für eure Teilnahme, danke für die Talks und danke [Triplesense Reply GmbH](http://www.triplesense.de) für Location + Verpflegung!
 
