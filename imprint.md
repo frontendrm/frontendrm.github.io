@@ -6,12 +6,14 @@ title: Impressum
 ## Impressum
 
 Angaben gemäß § 5 TMG:
+
 Jan Deppisch
-Schillerstr. 6
-65232 Taunusstein-Hahn
+Eleonorenstr. 6
+65185 Wiesbaden
 
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:
-Jan Deppisch (Anschrift wie	oben)
+
+Jan Deppisch (Anschrift wie oben)
 
 1. Haftungshinweis
 
