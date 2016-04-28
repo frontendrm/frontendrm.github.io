@@ -36,5 +36,3 @@ Constantin Noll ([namics](http://www.namics.com)) hat einen [Blogpost](https://a
 ![""]({{ site.url }}/assets/2016-03-03/img/IMG_3979.jpg)
 
 ![""]({{ site.url }}/assets/2016-03-03/img/IMG_3982.jpg)
-
-.
