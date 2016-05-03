@@ -16,4 +16,8 @@ Talks:
 - Responsive Tabellen ([Jens Grochtdreis](http://grochtdreis.de/weblog/))
 - evtl. Beyond Tellerrand Roundup ([Jan Deppisch](https://www.xing.com/profile/Jan_Deppisch), AOE)
 
+Anmeldung bitte über das [XING-Event](bit.ly/1NhwUZ0)
+
+Anfahrt: Börsenstr. 2-4, 60313 Frankfurt ([Beschreibung](http://www.syzygy.de/kontakt/anfahrtsbeschreibung-frankfurt))
+
 Bei Pizza und Bier freuen wir uns über interessante Gespräche und lockeres Networking rund um Frontend-Themen :-)
