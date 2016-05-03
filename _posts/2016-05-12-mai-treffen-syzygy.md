@@ -10,9 +10,9 @@ published: true
 Das nächste Meetup findet am Donnerstag, 12. Mai wieder in Frankfurt statt, dieses Mal bei [SYZYGY](http://www.syzygy.de/innenleben/syzygy-frankfurt-neues-office).
 
 Talks:
-- CSS Regression Testing (Sascha Egerer, SYGYZY)
-- Responsive Workflows / Patternlab (Christian Auth, SYZYGY)
-- Responsive Tabellen (Jens Grochtdreis)
-- evtl. Beyond Tellerrand Roundup (Jan Deppisch, AOE)
+- CSS Regression Testing ((Sascha Egerer)[https://www.xing.com/profile/Sascha_Egerer], SYGYZY)
+- Responsive Workflows / Patternlab ((Christian Auth)[https://www.xing.com/profile/Christian_Auth2], SYZYGY)
+- Responsive Tabellen ((Jens Grochtdreis)[http://grochtdreis.de/weblog/])
+- evtl. Beyond Tellerrand Roundup ((Jan Deppisch)[https://www.xing.com/profile/Jan_Deppisch], AOE)
 
 Bei Pizza und Bier freuen wir uns über interessante Gespräche und lockeres Networking rund um Frontend-Themen :-)
