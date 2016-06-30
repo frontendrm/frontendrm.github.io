@@ -20,8 +20,6 @@ Es gibt jetzt übrigens auch eine [Meetup-Gruppe](http://www.meetup.com/de-DE/fr
 
 Adresse:
 
-COWO 21
-Holzhofallee 21
-64295 Darmstadt
+COWO 21 / Holzhofallee 21 / 64295 Darmstadt
 
 [Anfahrtsbeschreibung](http://cowo21.de/mehr/kontakt/)
