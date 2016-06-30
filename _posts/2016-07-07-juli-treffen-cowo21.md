@@ -12,7 +12,7 @@ Die Frontend Usergroup macht Station in Darmstadt! Am Donnerstag, 07.07. findet 
 Talks:
 
 - Web Animationen ([Bastian Heist](https://www.xing.com/profile/Bastian_Heist2/))
-- 2. Slot ist noch frei, leider ist jemand abgesprungen. Freiwillige vor! :-)
+- Weiterer Slot ist noch frei, leider ist jemand abgesprungen. Freiwillige vor! :-)
 
 Bitte wie immer über das [XING-Event](https://www.xing.com/events/juli-treffen-frontend-usergroup-rheinmain-1704788) anmelden, danke!
 
@@ -21,9 +21,7 @@ Es gibt jetzt übrigens auch eine [Meetup-Gruppe](http://www.meetup.com/de-DE/fr
 Adresse:
 
 COWO 21
-
 Holzhofallee 21
-
 64295 Darmstadt
 
 [Anfahrtsbeschreibung](http://cowo21.de/mehr/kontakt/)
