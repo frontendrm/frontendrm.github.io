@@ -19,7 +19,11 @@ Bitte wie immer über das [XING-Event](https://www.xing.com/events/juli-treffen-
 Es gibt jetzt übrigens auch eine [Meetup-Gruppe](http://www.meetup.com/de-DE/frontend_rm/events/231245042/).
 
 Adresse:
+
 COWO 21
+
 Holzhofallee 21
+
 64295 Darmstadt
+
 [Anfahrtsbeschreibung](http://cowo21.de/mehr/kontakt/)
