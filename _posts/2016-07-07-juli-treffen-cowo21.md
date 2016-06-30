@@ -7,7 +7,7 @@ author_twitter: netzartist
 published: true
 ---
 
-Die Frontend Usergroup macht Station in Darmstadt! Am Donnerstag, 07.07. findet das 9. Treffen statt und zwar bei den Jungs und Mädels vom ([COWO 21](http://cowo21.de)), Sponsor ist die Agentur ([Sandstorm Media](https://sandstorm.de/).
+Die Frontend Usergroup macht Station in Darmstadt! Am Donnerstag, 07.07. findet das 9. Treffen statt und zwar bei den Jungs und Mädels vom [COWO 21](http://cowo21.de), Sponsor ist die Agentur [Sandstorm Media](https://sandstorm.de/).
 
 Talks:
 
