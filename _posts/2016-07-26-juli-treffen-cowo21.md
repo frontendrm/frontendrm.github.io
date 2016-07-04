@@ -1,13 +1,13 @@
 ---
 layout: post
 pretitle: Save the date!
-title: 9. Meetup am 07. Juli in Darmstadt
+title: 9. Meetup am 26. Juli in Darmstadt
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
 ---
 
-Die Frontend Usergroup macht Station in Darmstadt! Am Donnerstag, 07.07. findet das 9. Treffen statt und zwar bei den Jungs und Mädels vom [COWO 21](http://cowo21.de), Sponsor ist die Agentur [Sandstorm Media](https://sandstorm.de/).
+Die Frontend Usergroup macht Station in Darmstadt! Am Dienstag, 26.07. findet das 9. Treffen statt und zwar bei den Jungs und Mädels vom [COWO 21](http://cowo21.de), Sponsor ist die Agentur [Sandstorm Media](https://sandstorm.de/).
 
 Talks:
 
