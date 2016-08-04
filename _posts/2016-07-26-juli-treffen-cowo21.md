@@ -7,7 +7,7 @@ author_twitter: netzartist
 published: true
 ---
 
-Trotz sommerlicher Hitze fanden sich ein dutzend interessierter Frontend-Entwickler in den netten Räumlichkeiten des [COWO 21](http://cowo21.de) ein, um sich über aktuelle Frontend-Themen zu unterhalten. Talk-Schwerpunkt war diesmal ein Überblick über die [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API), didaktisch sehr gut aufbereitet von ([Bastian Heist](https://www.xing.com/profile/Bastian_Heist2/)) ([Sandstorm Media](https://sandstorm.de/)) :-)
+Trotz sommerlicher Hitze fanden sich ein dutzend interessierter Frontend-Entwickler in den netten Räumlichkeiten des [COWO 21](http://cowo21.de) ein, um sich über aktuelle Frontend-Themen zu unterhalten. Talk-Schwerpunkt war diesmal ein Überblick über die [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API), didaktisch sehr gut aufbereitet von [Bastian Heist](https://www.xing.com/profile/Bastian_Heist2/) ([Sandstorm Media](https://sandstorm.de/)).
 
 ![""]({{ site.url }}/assets/2016-07-26/img/bastianheist.jpg)
 
