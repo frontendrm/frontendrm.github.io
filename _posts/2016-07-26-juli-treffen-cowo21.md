@@ -1,25 +1,18 @@
 ---
 layout: post
-pretitle: Save the date!
-title: 9. Meetup am 26. Juli in Darmstadt
+pretitle: Treffen vom 26. Juli 2016
+title: Web Animations API
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
 ---
 
-Die Frontend Usergroup macht Station in Darmstadt! Am Dienstag, 26.07. findet das 9. Treffen statt und zwar bei den Jungs und Mädels vom [COWO 21](http://cowo21.de), Sponsor ist die Agentur [Sandstorm Media](https://sandstorm.de/).
+Trotz sommerlicher Hitze fanden sich ein dutzend interessierter Frontend-Entwickler in den netten Räumlichkeiten des [COWO 21](http://cowo21.de) ein, um sich über aktuelle Frontend-Themen zu unterhalten. Talk-Schwerpunkt war diesmal ein Überblick über die [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API), didaktisch sehr gut aufbereitet von ([Bastian Heist](https://www.xing.com/profile/Bastian_Heist2/)) ([Sandstorm Media](https://sandstorm.de/)) :-)
 
-Talks:
+![""]({{ site.url }}/assets/2017-07-26/img/bastianheist.jpg)
 
-- Web Animationen ([Bastian Heist](https://www.xing.com/profile/Bastian_Heist2/))
-- Weiterer Slot ist noch frei, leider ist jemand abgesprungen. Freiwillige vor! :-)
+Slides:
 
-Bitte wie immer über das [XING-Event](https://www.xing.com/events/juli-treffen-frontend-usergroup-rheinmain-1704788) anmelden, danke!
+<script async class="speakerdeck-embed" data-id="0a63818f1ec84974addf6a51f2111984" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-Es gibt jetzt übrigens auch eine [Meetup-Gruppe](http://www.meetup.com/de-DE/frontend_rm/events/231245042/).
-
-Adresse:
-
-COWO 21 / Holzhofallee 21 / 64295 Darmstadt
-
-[Anfahrtsbeschreibung](http://cowo21.de/mehr/kontakt/)
+Danke euch - wir kommen gerne wieder nach Darmstadt, stay tuned!
