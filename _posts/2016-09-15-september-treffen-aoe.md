@@ -30,5 +30,6 @@ Wir freuen uns auf einen spannenden Abend!
 Chris Heilmann setzt sich schon seit vielen Jahren begeistert für die Verbesserung des Web ein. Ursprünglich mit einem Background im Radiojournalismus, hat er seine erste Website von der Pike auf um 1997 gebaut. In den darauffolgenden Jahren hat er an vielen internationalen Websites gearbeitet. Danach hat er einige Jahre bei Yahoo Produkte entwickelt und Schulungen durchgeführt (Yahoo Answers, Search, Local und Maps). Nach dieser Zeit arbeitete er bei Mozilla, wo er den HTML5-Support ausgebaut und Firefox OS als offene Alternative zu geschlossenen Mobilsystemen unterstützt hat. Chris hat zwei Bücher selbst geschrieben und an acht weiteren Büchern über Web-Entwicklung mitgewirkt sowie eine Vielzahl von Artikeln und hunderte von Blog-Posts für Ajaxian, Smashing Magazine, Yahoo, Mozilla, ScriptJunkie und viele weitere verfasst. Er ist auch der Autor des Developer Evangelism Handbook, das in vielen Unternehmen zum Coaching eingesetzt wird. Derzeit ist er Teil des Microsoft Edge Teams, wo er als Programm-Manager für Developer Outreach fungiert.
 
 Homepage: [icant.co.uk](http://icant.co.uk/)
+
 Twitter: [@codepo8](https://twitter.com/codepo8)
 
