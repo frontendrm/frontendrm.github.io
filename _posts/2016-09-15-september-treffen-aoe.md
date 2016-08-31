@@ -15,11 +15,15 @@ Als kleine Vorschau hier ein kurzweiliger Talk vom März diesen Jahres:
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/GXvKWd0bWF8" frameborder="0" allowfullscreen></iframe>
 
-Die Agenda des Abends ist noch in Arbeit.
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Vorfreude auf den 15. Teil 1: Lecker Käsekuchen von <a href="https://twitter.com/trishi_de">@trishi_de</a> … als Dessert nach der Pizza! <a href="https://t.co/wNoDfJaflC">pic.twitter.com/wNoDfJaflC</a></p>&mdash; Frontend RheinMain (@frontend_rm) <a href="https://twitter.com/frontend_rm/status/770996534053863424">31. August 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Vorfreude auf den 15. Teil 2: Das Thema von <a href="https://twitter.com/codepo8">@codepo8</a> ist „Feindbild Javascript - sinnvolles progressive enhancement“ <a href="https://t.co/JhWe9cs5n1">https://t.co/JhWe9cs5n1</a></p>&mdash; Frontend RheinMain (@frontend_rm) <a href="https://twitter.com/frontend_rm/status/770997151480569856">31. August 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Die Teilnahme ist wie immer kostenlos. [AOE](http://www.aoe.com) stellt freundlicherweise die Location sowie Getränke, Snacks und Pizza zur Verfügung.
 
-Zur besseren Planung bitte rechtzeitig über [XING](https://www.xing.com/events/jubilaums-frontend-meetup-christian-heilmann-1712166) Event oder [Meetup](https://www.meetup.com/de-DE/frontend_rm/events/232944723/) zusagen, danke!
+Zur besseren Planung bitte rechtzeitig über das [XING](https://www.xing.com/events/jubilaums-frontend-meetup-christian-heilmann-1712166) Event oder [Meetup](https://www.meetup.com/de-DE/frontend_rm/events/232944723/) zusagen, danke!
 
 Die AOE GmbH befindet zentral in der Innenstadt (Luisenforum) und ist sehr gut per ÖPNV und PKW zu erreichen. [Zur Anfahrtsbeschreibung](https://www.aoe.com/de/anfahrt/firmenzentrale.html)
 
