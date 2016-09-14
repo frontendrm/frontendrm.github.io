@@ -15,7 +15,14 @@ Als kleine Vorschau hier ein kurzweiliger Talk vom März diesen Jahres:
 
 <iframe width="720" height="540" src="https://www.youtube.com/embed/GXvKWd0bWF8" frameborder="0" allowfullscreen></iframe>
 
-Die Agenda des Abends ist noch in Arbeit.
+Agenda:
+
+- 19 Uhr: Ankommen, Getränk nehmen, Pizza essen, Socializing
+- 19.30 Uhr: Talk Chris "Feindbild Javascript - sinnvolles progressive enhancement"
+- Q & A-Session + Diskussion 
+- Socializing & Networking inkl. Kuchen
+- Ende spätestens 22.30 Uhr
+
 
 Die Teilnahme ist wie immer kostenlos. [AOE](http://www.aoe.com) stellt freundlicherweise die Location sowie Getränke, Snacks und Pizza zur Verfügung.
 
