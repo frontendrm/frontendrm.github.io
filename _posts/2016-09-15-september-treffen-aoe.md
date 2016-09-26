@@ -7,42 +7,34 @@ author_twitter: netzartist
 published: true
 ---
 
-Zum 10. Treffen der Frontend Usergroup RheinMain in Wiesbaden haben wir Christian Heilmann zu Gast!
+Anfang 2014 als kleines Meetup von Frontend-Entwicklern in Wiesbaden gestartet hat sich die Frontend Usergroup RheinMain mittlerweile zu einem festen Bestandteil der Frontend-Szene im Großraum Frankfurt / Wiesbaden entwickelt. Alle 2-3 Monate tauschen sich Webworker in wechselnden Locations zu aktuellen Themen der Webentwicklung aus. Zum 10. Treffen im September 2016 konnten wir den Microsoft Developer Evangelisten [Christian Heilmann](https://twitter.com/codepo8) für einen Talk in Kinofilmlänge gewinnen - der Rekord von rund 50 Teilnehmern war daher nicht wirklich mehr überraschend...
 
-!["Christian Heilmann"]({{ site.url }}/assets/2016-09-15/img/christian-heilmann.jpg)
+![""]({{ site.url }}/assets/2016-09-15/img/20160915_202406.jpg)
 
-Als kleine Vorschau hier ein kurzweiliger Talk vom März diesen Jahres:
+Christians Thema war "Progressive Web und die Probleme von Javascript". Für alle, die den Talk an dem Abend nicht live verfolgen konnten, lohnt es sich, das Video einmal komplett anzuschauen:
 
-<iframe width="720" height="540" src="https://www.youtube.com/embed/GXvKWd0bWF8" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube.com/embed/du6ktviKKtg" frameborder="0" allowfullscreen></iframe>
 
-Agenda:
+Für die Faulen hier die TL;DR Zusammenfassung :)
 
-- 19 Uhr: Ankommen, Getränk nehmen, Pizza essen, Socializing
-- 19.30 Uhr: Talk Chris "Feindbild Javascript - sinnvolles progressive enhancement"
-- Q & A-Session + Diskussion 
-- Socializing & Networking inkl. Kuchen
-- Ende spätestens 22.30 Uhr
+Dank ausgereifter HTML, CSS- und Javascript-Standards und modernen Browsern, die sich in der Interpretation der Standards kaum noch unterscheiden, steht Webworkern heutzutage ein umfassendes Toolset zur Verfügung, um Webanwendungen zu erstellen, die dem Benutzer ein performantes UX-Erlebnis auf allen Geräten ermöglichen können. Nicht nur in den sogenannten "aufstrebenden Entwicklungsländern" zählt jedes Kilobyte, was an Daten eingespart wird - interessantes Beispiel dazu ist 10k APART (https://a-k-apart.com/) - was wir dank dicker Internetleitung und großen Monitoren oft vergessen. Wichtig dabei ist, wir beginnen mit dem kleinsten gemeinsamen Nenner und erweitern den Code sukzessive um modernen Features (wie z.B. Service-Worker für Offlinefunktionalität) - Stichwort progressive enhancement - und nicht umgekehrt. Neben bestmöglicher Performance sollten wir uns gegenüber dem Benutzer ebenso um exzellentes Errorhandling sowie maximale Absicherung gegen Sicherheitslöcher kümmern. Und wir sollten aufhören, über den IE oder Fehler in anderen Browsern zu meckern, sondern uns aktiv (z.B. über Pullrequests) bei den Browserherstellern involvieren. Chris: "Das Web von heute sollte besser sein als eine native Applikation."
 
-<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Vorfreude auf den 15. Teil 1: Lecker Käsekuchen von <a href="https://twitter.com/trishi_de">@trishi_de</a> … als Dessert nach der Pizza! <a href="https://t.co/wNoDfJaflC">pic.twitter.com/wNoDfJaflC</a></p>&mdash; Frontend RheinMain (@frontend_rm) <a href="https://twitter.com/frontend_rm/status/770996534053863424">31. August 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Die Slides zum kompletten Nachlesen (englisch):
 
-<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Vorfreude auf den 15. Teil 2: Das Thema von <a href="https://twitter.com/codepo8">@codepo8</a> ist „Feindbild Javascript - sinnvolles progressive enhancement“ <a href="https://t.co/JhWe9cs5n1">https://t.co/JhWe9cs5n1</a></p>&mdash; Frontend RheinMain (@frontend_rm) <a href="https://twitter.com/frontend_rm/status/770997151480569856">31. August 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kJByNcAF2rao3t" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cheilmann/progressive-web-and-the-problem-of-javascript" title="Progressive web and the problem of JavaScript" target="_blank">Progressive web and the problem of JavaScript</a> </strong> von <strong><a target="_blank" href="//www.slideshare.net/cheilmann">Christian Heilmann</a></strong> </div>
+
+Nützliche Wikipedia-Links zu:
+
+- [Progressive Web App](https://de.wikipedia.org/wiki/Progressive_Web_App)
+- [Progressive Enhancement](https://de.wikipedia.org/wiki/Progressive_Verbesserung)
 
 
-Die Teilnahme ist wie immer kostenlos. [AOE](http://www.aoe.com) stellt freundlicherweise die Location sowie Getränke, Snacks und Pizza zur Verfügung.
+Leider nicht mehr auf das Video geschafft hat es die unterhaltsame Q&A-Session, bei der es erwartungsgemäß um den aktiv von Microsoft zu Grabe getragenen Internet Explorer sowie den modernen Edge Browser ging, der uns Webentwicklern kaum noch Angriffsfläche bietet :-) 
 
-Zur besseren Planung bitte rechtzeitig über das [XING](https://www.xing.com/events/jubilaums-frontend-meetup-christian-heilmann-1712166) Event oder [Meetup](https://www.meetup.com/de-DE/frontend_rm/events/232944723/) zusagen, danke!
+![""]({{ site.url }}/assets/2016-09-15/img/20160915_200557.jpg)
 
-Die AOE GmbH befindet zentral in der Innenstadt (Luisenforum) und ist sehr gut per ÖPNV und PKW zu erreichen. [Zur Anfahrtsbeschreibung](https://www.aoe.com/de/anfahrt/firmenzentrale.html)
+![""]({{ site.url }}/assets/2016-09-15/img/20160915_202436.jpg)
 
-Wir freuen uns auf einen spannenden Abend!
+Ein Riesendank geht an das Headquarter der [AOE GmbH](http://www.aoe.com) in Wiesbaden, das erneut die Location und die Verpflegung der Teilnehmer sponsorte. Ebenso herzlichen Dank den durchweg begeisterten Teilnehmern, an Patricia für die selbstgebackenen [Kuchen](https://twitter.com/trishi_de/status/776704826856108032), und natürlich an Christian, der sich so viel Zeit für die Usergroup genommen hat!
 
-Über Chris:
-
-Chris Heilmann setzt sich schon seit vielen Jahren begeistert für die Verbesserung des Web ein. Ursprünglich mit einem Background im Radiojournalismus, hat er seine erste Website von der Pike auf um 1997 gebaut. In den darauffolgenden Jahren hat er an vielen internationalen Websites gearbeitet. Danach hat er einige Jahre bei Yahoo Produkte entwickelt und Schulungen durchgeführt (Yahoo Answers, Search, Local und Maps). Nach dieser Zeit arbeitete er bei Mozilla, wo er den HTML5-Support ausgebaut und Firefox OS als offene Alternative zu geschlossenen Mobilsystemen unterstützt hat. Chris hat zwei Bücher selbst geschrieben und an acht weiteren Büchern über Web-Entwicklung mitgewirkt sowie eine Vielzahl von Artikeln und hunderte von Blog-Posts für Ajaxian, Smashing Magazine, Yahoo, Mozilla, ScriptJunkie und viele weitere verfasst. Er ist auch der Autor des Developer Evangelism Handbook, das in vielen Unternehmen zum Coaching eingesetzt wird. Derzeit ist er Teil des Microsoft Edge Teams, wo er als Programm-Manager für Developer Outreach fungiert.
-
-Homepage: [icant.co.uk](http://icant.co.uk/)
-
-Twitter: [@codepo8](https://twitter.com/codepo8)
-
+Bis zum nächsten Meetup!
