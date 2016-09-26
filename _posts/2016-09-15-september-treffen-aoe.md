@@ -1,7 +1,7 @@
 ---
 layout: post
-pretitle: 15. September in Wiesbaden
-title: Jubiläums-Meetup mit Christian Heilmann
+pretitle: Jubiläumstreffen am 15. September 2016
+title: Christian Heilmann zu Gast in Wiesbaden
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
@@ -17,16 +17,11 @@ Christians Thema war "Progressive Web und die Probleme von Javascript". Für all
 
 Für die Faulen hier die TL;DR Zusammenfassung :)
 
-Dank ausgereifter HTML, CSS- und Javascript-Standards und modernen Browsern, die sich in der Interpretation der Standards kaum noch unterscheiden, steht Webworkern heutzutage ein umfassendes Toolset zur Verfügung, um Webanwendungen zu erstellen, die dem Benutzer ein performantes UX-Erlebnis auf allen Geräten ermöglichen können. Nicht nur in den sogenannten "aufstrebenden Entwicklungsländern" zählt jedes Kilobyte, was an Daten eingespart wird - interessantes Beispiel dazu ist 10k APART (https://a-k-apart.com/) - was wir dank dicker Internetleitung und großen Monitoren oft vergessen. Wichtig dabei ist, wir beginnen mit dem kleinsten gemeinsamen Nenner und erweitern den Code sukzessive um modernen Features (wie z.B. Service-Worker für Offlinefunktionalität) - Stichwort progressive enhancement - und nicht umgekehrt. Neben bestmöglicher Performance sollten wir uns gegenüber dem Benutzer ebenso um exzellentes Errorhandling sowie maximale Absicherung gegen Sicherheitslöcher kümmern. Und wir sollten aufhören, über den IE oder Fehler in anderen Browsern zu meckern, sondern uns aktiv (z.B. über Pullrequests) bei den Browserherstellern involvieren. Chris: "Das Web von heute sollte besser sein als eine native Applikation."
+Dank ausgereifter HTML, CSS- und Javascript-Standards und modernen Browsern, die sich in der Interpretation der Standards kaum noch unterscheiden, steht Webworkern heutzutage ein umfassendes Toolset zur Verfügung, um Webanwendungen zu erstellen, die dem Benutzer ein performantes UX-Erlebnis auf allen Geräten ermöglichen können. Nicht nur in den sogenannten "aufstrebenden Entwicklungsländern" zählt jedes Kilobyte, was an Daten eingespart wird - interessantes Beispiel dazu ist [10k APART](https://a-k-apart.com/) - was wir dank dicker Internetleitung und großen Monitoren oft vergessen. Wichtig dabei ist, wir beginnen mit dem kleinsten gemeinsamen Nenner und erweitern den Code sukzessive um modernen Features (wie z.B. Service-Worker für Offlinefunktionalität) - Stichwort [Progressive Enhancement](https://de.wikipedia.org/wiki/Progressive_Verbesserung) - und nicht umgekehrt. Neben bestmöglicher Performance sollten wir uns gegenüber dem Benutzer ebenso um exzellentes Errorhandling sowie maximale Absicherung gegen Sicherheitslöcher kümmern. Und wir sollten aufhören, über den IE oder Fehler in anderen Browsern zu meckern, sondern uns aktiv (z.B. über Pullrequests) bei den Browserherstellern involvieren. Chris: "Das Web von heute sollte besser sein als eine native Applikation."
 
 Die Slides zum kompletten Nachlesen (englisch):
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/kJByNcAF2rao3t" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/cheilmann/progressive-web-and-the-problem-of-javascript" title="Progressive web and the problem of JavaScript" target="_blank">Progressive web and the problem of JavaScript</a> </strong> von <strong><a target="_blank" href="//www.slideshare.net/cheilmann">Christian Heilmann</a></strong> </div>
-
-Nützliche Wikipedia-Links zu:
-
-- [Progressive Web App](https://de.wikipedia.org/wiki/Progressive_Web_App)
-- [Progressive Enhancement](https://de.wikipedia.org/wiki/Progressive_Verbesserung)
 
 
 Leider nicht mehr auf das Video geschafft hat es die unterhaltsame Q&A-Session, bei der es erwartungsgemäß um den aktiv von Microsoft zu Grabe getragenen Internet Explorer sowie den modernen Edge Browser ging, der uns Webentwicklern kaum noch Angriffsfläche bietet :-) 
