@@ -32,4 +32,10 @@ Leider nicht mehr auf das Video geschafft hat es die unterhaltsame Q&A-Session, 
 
 Ein Riesendank geht an das Headquarter der [AOE GmbH](http://www.aoe.com) in Wiesbaden, das erneut die Location und die Verpflegung der Teilnehmer sponsorte. Ebenso herzlichen Dank den durchweg begeisterten Teilnehmern, an Patricia für die selbstgebackenen [Kuchen](https://twitter.com/trishi_de/status/776704826856108032), und natürlich an Christian, der sich so viel Zeit für die Usergroup genommen hat!
 
+Weitere Blogartikel:
+
+- [Chris' Blog](https://www.christianheilmann.com/2016/09/27/javascript-aus-ist-nicht-das-problem-vortrag-beim-frontend-rhein-main-meetup/)
+
+- [AOE Firmenblog](https://www.aoe.com/de/blog/frontend-usergroup-meeting-mit-microsoft-000770.html)
+
 Bis zum nächsten Meetup!
