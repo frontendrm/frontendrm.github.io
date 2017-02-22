@@ -9,7 +9,7 @@ published: true
 
 Volles Haus, spannende Talks, Führung durch die historischen Räumlichkeiten des namics-Office in Frankfurt, lecker Catering und natürlich entspanntes Networking ... so kann man das 11. Treffen knapp zusammenfassen.
 
-Herzlichen Dank an die Speaker [Bastian Heist](https://sandstorm.de/) und ([Sebastian Werner](https://www.sebastian-software.de/)) sowie Constantin von [Namics](https://www.namics.com/) für die unkomplizierte Organisation sowie das Sponsoring!
+Herzlichen Dank an die Speaker [Bastian Heist](https://sandstorm.de/) und [Sebastian Werner](https://www.sebastian-software.de/) sowie Constantin von [Namics](https://www.namics.com/) für die unkomplizierte Organisation sowie das Sponsoring!
 
 Hier sind die Slides:
 
