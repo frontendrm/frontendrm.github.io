@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Slides vom 5. Treffen (Mai 2015)
+pretitle: Slides vom 5. Treffen am 10. Mai 2015
 title: "Testdriven CSS mit dem Galen-Framework"
 author: Jan Deppisch
 author_twitter: netzartist
