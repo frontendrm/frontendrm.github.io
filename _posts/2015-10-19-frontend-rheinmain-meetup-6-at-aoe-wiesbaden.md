@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Slides vom 6. Treffen (Oktober 2015)
+pretitle: Bericht vom 6. Treffen am 19. Oktober 2015
 title: "Composition Over Inheritance"
 author: Jan Deppisch
 author_twitter: netzartist
