@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts"> 
 	{% for post in site.posts %}
-	<article class="post" id="post-{{ post.id }}">
+	<article class="post" id="post-{{ post.title | downcase }}">
 
 <!--
 		<h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> </h1>
