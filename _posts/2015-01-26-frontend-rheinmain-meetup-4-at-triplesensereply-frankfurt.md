@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Slides vom 4. Treffen (Januar 2015)
+pretitle: Slides vom 4. Treffen am 26. Januar 2015
 title: "Arbeitsweisen und Workflows im Frontend"
 author: Jan Deppisch
 author_twitter: netzartist
