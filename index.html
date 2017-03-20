@@ -6,9 +6,10 @@ layout: default
 	{% for post in site.posts %}
 	<article class="post" id="post-{{ post.url }}">
 
-
+<!--
 		<h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> </h1>
-
+-->
+		
 		<h4>{{ post.pretitle }} <!--<span class="author">Autor: <a href="http://twitter.com/{{post.author_twitter}}">{{post.author}}</a></span>--></h4>
 		<h1 {% if post.subtitle %}class='has-subtitle'{% endif %}>{{ post.title }}</h1>
 		{% if post.subtitle %}
