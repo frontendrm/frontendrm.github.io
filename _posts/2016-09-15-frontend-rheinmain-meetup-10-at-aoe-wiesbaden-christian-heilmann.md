@@ -35,6 +35,6 @@ Ein Riesendank geht an das Headquarter der [AOE GmbH](http://www.aoe.com) in Wie
 Weitere Blogartikel:
 
 - [Chris' Blog](https://www.christianheilmann.com/2016/09/27/javascript-aus-ist-nicht-das-problem-vortrag-beim-frontend-rhein-main-meetup/)
-- [AOE Firmenblog](https://www.aoe.com/de/blog/frontend-usergroup-meeting-mit-microsoft-000770.html)
+- [AOE Firmenblog](https://www.aoe.com/de/blog/frontend-usergroup-meeting-mit-microsoft-evangelist-christian-heilmann.html)
 
 Bis zum nächsten Meetup!
