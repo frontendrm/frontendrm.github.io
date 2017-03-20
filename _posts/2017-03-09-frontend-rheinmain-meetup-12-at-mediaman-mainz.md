@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Bericht vom 12. Treffen
+pretitle: Bericht vom 12. Treffen am 09.03.2017
 title: Virtual Reality im Browser
 author: Jan Deppisch
 author_twitter: netzartist
