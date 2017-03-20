@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Bilder vom 8. Treffen (Mai 2016)
+pretitle: Bilder vom 8. Treffen am 12. Mai 2016
 title: CSS Testing, Responsive Workflows & Tabellen
 author: Jan Deppisch
 author_twitter: netzartist
