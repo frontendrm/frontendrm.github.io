@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Bericht vom 11. Treffen
+pretitle: Bericht vom 11. Treffen am 24.01.2017
 title: CSS Grid Layout + Webpack Tooling
 author: Jan Deppisch
 author_twitter: netzartist
