@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Slides vom 7. Treffen (März 2016)
+pretitle: Bericht vom 7. Treffen am 03. März 2016
 title: "HighPerf Images, AngularJS & Agiles Testing"
 author: Jan Deppisch
 author_twitter: netzartist
