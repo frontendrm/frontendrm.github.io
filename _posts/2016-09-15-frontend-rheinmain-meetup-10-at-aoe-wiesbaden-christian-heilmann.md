@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Jubiläumstreffen am 15. September 2016
+pretitle: Bericht vom Jubiläumstreffen am 15. September 2016
 title: Christian Heilmann zu Gast in Wiesbaden
 author: Jan Deppisch
 author_twitter: netzartist
