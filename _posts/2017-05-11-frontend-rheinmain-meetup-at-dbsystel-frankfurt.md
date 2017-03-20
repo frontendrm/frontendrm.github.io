@@ -2,7 +2,6 @@
 layout: post
 pretitle: Save the date
 title: 13. Treffen am 11. Mai in Frankfurt
-speaking_url: 2017-05-11-announcement_dbsystel
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
