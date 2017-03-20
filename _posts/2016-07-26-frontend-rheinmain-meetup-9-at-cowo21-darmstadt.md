@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Treffen vom 26. Juli 2016
+pretitle: Bericht vom 9. Treffen am 26. Juli 2016
 title: Web Animations API
 author: Jan Deppisch
 author_twitter: netzartist
