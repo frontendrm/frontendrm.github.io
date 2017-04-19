@@ -9,7 +9,12 @@ published: true
 
 Das nächste Meetup findet am Donnerstag, 11. Mai statt, diesmal sind wir wieder in Frankfurt. Wir freuen uns, dass wir unser Treffen bei der [DB Systel](https://www.dbsystel.de/) ([@DB_Skydeck](https://twitter.com/DB_Skydeck)) stattfinden lassen dürfen.
 
-Die Agenda ist noch offen, wir freuen uns über Talk-Vorschläge :-)
+Agenda:
+
+- "How I accidentally build a static page generator" ([Tobias Hartmann](https://twitter.com/ToH_82))
+- "Smart Home mit NodeJS" ([Daniel Fitzpatrick](https://twitter.com/danfitz))
+- "Redux-Oberservables" (Etienne Dilocker)
+- CSS-Conf Best Of ([Patricia Roß](https://twitter.com/trishi_de) + [Jan Deppisch](https://twitter.com/netzartist))
 
 Zur Anmeldung:
 
