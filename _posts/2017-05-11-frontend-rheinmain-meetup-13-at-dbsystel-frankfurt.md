@@ -12,7 +12,7 @@ Das nächste Meetup findet am Donnerstag, 11. Mai statt, diesmal sind wir wieder
 Agenda:
 
 - "How I accidentally build a static page generator" ([Tobias Hartmann](https://twitter.com/ToH_82))
-- "Smart Home mit NodeJS" ([Daniel Fitzpatrick](https://twitter.com/danfitz))
+- "Smart Home mit NodeJS" ([Daniel Fitzpatrick](https://twitter.com/Terafitz))
 - "Redux-Oberservables" (Etienne Dilocker)
 - CSS-Conf Best Of ([Patricia Roß](https://twitter.com/trishi_de) + [Jan Deppisch](https://twitter.com/netzartist))
 
