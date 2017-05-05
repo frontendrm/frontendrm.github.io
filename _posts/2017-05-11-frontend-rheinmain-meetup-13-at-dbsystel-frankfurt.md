@@ -21,7 +21,11 @@ Zur Anmeldung:
 - [XING](https://www.xing.com/events/frontend-rheinmain-meetup-db-systel-1797699)
 - [Meetup](https://www.meetup.com/de-DE/frontend_rm/events/238557167/)
 
-Bis demnächst!
+Anmeldeschluss: Mo, 08. Mai 18 Uhr
+
+An http://meetup.com  Nutzer: Bitte gebt Euren Vor- und Nachnamen an. Wir müssen diesmal eine Teilnehmerliste vorlegen.
+
+Bis bald!
 
 
 
