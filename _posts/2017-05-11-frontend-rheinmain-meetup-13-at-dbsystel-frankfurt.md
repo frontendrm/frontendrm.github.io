@@ -16,14 +16,7 @@ Agenda:
 - "Redux-Observables" (Etienne Dilocker)
 - CSS-Conf Best Of ([Patricia Roß](https://twitter.com/trishi_de) + [Jan Deppisch](https://twitter.com/netzartist))
 
-Zur Anmeldung:
-
-- [XING](https://www.xing.com/events/frontend-rheinmain-meetup-db-systel-1797699)
-- [Meetup](https://www.meetup.com/de-DE/frontend_rm/events/238557167/)
-
-Anmeldeschluss: Mo, 08. Mai 18 Uhr
-
-An http://meetup.com  Nutzer: Bitte gebt Euren Vor- und Nachnamen an. Wir müssen diesmal eine Teilnehmerliste vorlegen.
+Eine Anneldung ist leider nicht mehr möglich, da wir ansonsten Platzprobleme bekommen :-)
 
 Bis bald!
 
