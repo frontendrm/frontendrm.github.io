@@ -16,7 +16,7 @@ Agenda:
 - "Redux-Observables" (Etienne Dilocker)
 - CSS-Conf Best Of ([Patricia Roß](https://twitter.com/trishi_de) + [Jan Deppisch](https://twitter.com/netzartist))
 
-Eine Anneldung ist leider nicht mehr möglich, da wir ansonsten Platzprobleme bekommen :-)
+Eine Anmeldung ist leider nicht mehr möglich, da wir ansonsten Platzprobleme bekommen :-)
 
 Bis bald!
 
