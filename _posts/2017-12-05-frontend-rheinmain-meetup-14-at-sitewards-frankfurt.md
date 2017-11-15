@@ -18,10 +18,8 @@ Auf der Agenda erwartet euch diesmal:
 Und wenn die Zeit noch reicht, lassen wir den Abend bei einem Glühwein gemeinsam auf dem Weihnachtsmarkt ausklingen.
 
 Location:
-Sitewards GmbH
-Untermainkai 30
-60329 Frankfurt
-[Anfahrt](https://goo.gl/maps/ZFsFy8aUZrK2)
+- Sitewards GmbH, Untermainkai 30, 60329 Frankfurt
+- [Anfahrt](https://goo.gl/maps/ZFsFy8aUZrK2)
 
 Bitte meldet euch so bald wie möglich an:
 - [XING](https://www.xing.com/events/frontend-rheinmain-meetup-sitewards-1881637)
