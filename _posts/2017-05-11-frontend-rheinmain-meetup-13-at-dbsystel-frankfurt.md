@@ -1,7 +1,7 @@
 ---
 layout: post
-pretitle: NodeJS, page generators, observables, CSS, Skyline
-title: Bericht vom 13. Treffen am 11.05.2017 in Frankfurt
+pretitle: Bericht vom 13. Treffen am 11.05.2017 in Frankfurt
+title: NodeJS, page generators, observables, CSS, Skyline
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
