@@ -1,7 +1,7 @@
 ---
 layout: post
-pretitle: Save the date
-title: 13. Treffen am 11. Mai in Frankfurt
+pretitle: NodeJS, page generators, observables, CSS, Skyline
+title: Bericht vom 13. Treffen am 11.05.2017 in Frankfurt
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
@@ -14,8 +14,6 @@ Spannende Perspektiven, nicht nur auf Frontend-Themen: Beim 13. Treffen im Mai w
 ![""]({{ site.url }}/assets/2017-05-11/img/20170511_212857.jpg)
 
 Nachdem sich die über 50 Teilnehmer für's Erste satt-gesehen und (dank des reichhaltigen Buffets) -gegessen hatten, wurde zu 4 Talks gelauscht.
-
-- "Smart Home mit NodeJS" ([Daniel Fitzpatrick](https://twitter.com/Terafitz))
 
 Hier sind die Slides der meisten Talks zum nochmal Anschauen:
 
