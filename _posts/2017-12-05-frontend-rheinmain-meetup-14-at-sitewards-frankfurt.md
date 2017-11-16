@@ -12,7 +12,8 @@ Es ist wieder soweit: Nach langer Pause starten wir dieses Jahr noch einmal durc
 Um 19 Uhr geht's los, gegen 19:30 Uhr wollen wir mit der Agenda starten.
 
 Auf der Agenda erwartet euch diesmal:
-- "PWScore und PWSportal - die Komponenten-Library der Deutschen Bank" ([René Kriest](https://twitter.com/ReneKriest) + Team, [Deutsche Bank](https://twitter.com/DeutscheBankAG))
+- "PWScore - die Angular-Komponenten-Library der Deutschen Bank" ([René Kriest](https://twitter.com/ReneKriest) + Team, [Deutsche Bank](https://twitter.com/DeutscheBankAG))
+- "Was Alexa mit einer gegrillten Banane zu tun hat" ([Tobias Hartmann](https://twitter.com/ToH_82))
 - "Deine Frontend-Highlights 2017" (lockerer Austausch zwischen allen Teilnehmern) :-)
 
 Und wenn die Zeit noch reicht, lassen wir den Abend bei einem Glühwein gemeinsam auf dem Weihnachtsmarkt ausklingen.
