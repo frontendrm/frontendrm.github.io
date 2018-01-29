@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Videos, Videos, Videos!
+pretitle: 15. Meetup am 20. Februar bei AOE
 title: Frontend Bingewatching in Wiesbaden
 author: Jan Deppisch
 author_twitter: netzartist
