@@ -54,6 +54,10 @@ Kennt ihr andere Videos, die ihr gern schauen würdet?? Dann her mit euren Vorsc
 
 Welche wir schauen und wie lange wir durchhalten, entscheiden wir an dem Abend gemeinsam. Dazu gibt es Pizza, Snacks und Getränke. Wie immer bei kostenlos, nur nach Wiesbaden müsst ihr selbst kommen, und wir hoffen: zahlreich!
 
+Bitte meldet euch am besten jetzt gleich an:
+- [XING](https://www.xing.com/events/frontend-bingewatching-wiesbaden-1907586)
+- [Meetup](https://www.meetup.com/de-DE/frontend_rm/events/247293335/)
+
 Location:
 - AOE GmbH, Kirchgasse 6, 65185 Wiesbaden
 - [Anfahrt](https://www.aoe.com/fileadmin/AOE.com/images/main_navigation/contact/locations/Anfahrtsbeschreibung_zu_AOE_in_Wiesbaden.pdf)
