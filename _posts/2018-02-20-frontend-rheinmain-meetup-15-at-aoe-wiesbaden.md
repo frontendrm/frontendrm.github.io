@@ -50,13 +50,14 @@ Zur Auswahl stehen aktuell:
   - [Going Reactive - Eine Einführung in die reaktive Programmierung](https://www.youtube.com/watch?v=YnladsQPqYk) (Benedikt Stemmildt, code.talks 2017) - 45min
   - [Angular Labs: A Glimpse at Angular Elements](https://www.youtube.com/watch?v=ljsOPm4MMEo) (Rob Wormald) - 20min
 
-Kennt ihr andere Videos, die ihr gern schauen würdet?? Dann her mit euren Vorschlägen! Einfach per [Tweet an @frontend_rm](https://twitter.com/frontend_rm), per [Mail](mailto:info@frontend-rheinmain.de) oder auf unserer [Facebook-Seite](https://www.facebook.com/frontendrm/) ...
-
 Welche wir schauen und wie lange wir durchhalten, entscheiden wir an dem Abend gemeinsam. Dazu gibt es Pizza, Snacks und Getränke. Wie immer bei kostenlos, nur nach Wiesbaden müsst ihr selbst kommen, und wir hoffen: zahlreich!
 
-Bitte meldet euch am besten jetzt gleich an:
-- [XING](https://www.xing.com/events/frontend-bingewatching-wiesbaden-1907586)
-- [Meetup](https://www.meetup.com/de-DE/frontend_rm/events/247293335/)
+Zeitplan:
+- 19.00 Uhr Ankommen und Voting für erste Videorunde
+- 19.30 Uhr Begrüssung & Videorunde 1
+- ca. 20.30 Uhr Pizza Pause, Networking
+- ca. 21.00 Uhr Videorunde 2
+- 22.30 Uhr ENDE
 
 Location:
 - AOE GmbH, Kirchgasse 6, 65185 Wiesbaden
