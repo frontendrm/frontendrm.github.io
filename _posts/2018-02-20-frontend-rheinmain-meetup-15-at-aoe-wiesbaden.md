@@ -1,15 +1,13 @@
 ---
 layout: post
-pretitle: 15. Meetup am 20. Februar bei AOE
-title: Frontend Bingewatching in Wiesbaden
+pretitle: Frontend Bingewatching beim 15. Meetup
+title: Liste von spannenden Frontend-Talks 
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
 ---
 
-Das, was die meisten von euch bei Netflix & Amazon Prime machen, das tun wir am Dienstag, 20.02. bei [AOE](https://www.aoe.com/) in Wiesbaden auch mal: Wir schauen uns stundenlang <strike>Serien</strike> Videos an, und zwar aktuelle, spannende, interessante, unterhaltsame und lehrreiche Talks von Konferenzen der letzten Monate. 
-
-Zur Auswahl stehen aktuell:
+Das, was die meisten von euch bei Netflix & Amazon Prime machen, hatten wir am 20.02. bei [AOE](https://www.aoe.com/) in Wiesbaden getan: Wir haben uns einige aktuelle, spannende, interessante, unterhaltsame und lehrreiche Talks von Konferenzen der letzten Monate angeschaut. Hier ist die vollständige Liste. Kennt ihr noch weitere Videos, die ihr empfehlen könnt?
 
 - Querbeet:
   - [New Adventures in Responsive Web Design](https://vimeo.com/channels/beyondtellerrand/251516830) (Vitaly Friedman, beyond tellerrand München 2018) - 60min
@@ -49,18 +47,3 @@ Zur Auswahl stehen aktuell:
   - [OUTBREAK: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js](https://www.youtube.com/watch?v=cHDhGG-wPkk) (Alexander Pope, JS Kongress 2017) - 25min
   - [Going Reactive - Eine Einführung in die reaktive Programmierung](https://www.youtube.com/watch?v=YnladsQPqYk) (Benedikt Stemmildt, code.talks 2017) - 45min
   - [Angular Labs: A Glimpse at Angular Elements](https://www.youtube.com/watch?v=ljsOPm4MMEo) (Rob Wormald) - 20min
-
-Welche wir schauen und wie lange wir durchhalten, entscheiden wir an dem Abend gemeinsam. Dazu gibt es Pizza, Snacks und Getränke. Wie immer bei kostenlos, nur nach Wiesbaden müsst ihr selbst kommen, und wir hoffen: zahlreich!
-
-Zeitplan:
-- 19.00 Uhr Ankommen und Voting für erste Videorunde
-- 19.30 Uhr Begrüssung & Videorunde 1
-- ca. 20.30 Uhr Pizza Pause, Networking
-- ca. 21.00 Uhr Videorunde 2
-- 22.30 Uhr ENDE
-
-Location:
-- AOE GmbH, Kirchgasse 6, 65185 Wiesbaden
-- [Anfahrt](https://www.aoe.com/fileadmin/AOE.com/images/main_navigation/contact/locations/Anfahrtsbeschreibung_zu_AOE_in_Wiesbaden.pdf)
-
-Wir freuen uns auf euch, bis bald! 
