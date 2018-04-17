@@ -11,15 +11,11 @@ Am 23. April treffen wir uns wieder bei [AOE](https://www.aoe.com/) in Wiesbaden
 
 Unter allen Teilnehmern verlosen wir ein Ticket für die [beyond tellerrand Konferenz](https://beyondtellerrand.com/) (07. + 08. Mai in Düsseldorf) im Wert von 279€!
 
-Weiterhin wird uns Bernhard Behrendt eine Einführung in Puppeteer geben und wie es zur Automatisierung von UI-Interaktionen verwendet werden kann.
-
-Wir haben noch Platz für einen weiteren Talk, wer hat Interesse? :-)
-
 Agenda:
 - 19.00 Uhr: Ankommen, Getränk nehmen, Tach sagen
-- 19.30 Uhr: Talk 1
+- 19.30 Uhr: Einführung in Puppeteer wie es zur Automatisierung von UI-Interaktionen verwendet werden kann (Bernhard Behrendt, AOE GmbH)
 - 20.00 Uhr: Pause
-- 20.15 Uhr: Talk 2
+- 20.15 Uhr: User Acceptance Test Automatisierung mit "gauge" (Jochen Weber, Vicampo)
 - 20.45 Uhr: Ticketverlosung, Pizza, Networking
 - 21.30 Uhr: Ende
 
