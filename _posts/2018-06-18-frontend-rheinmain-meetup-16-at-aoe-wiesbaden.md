@@ -32,7 +32,7 @@ Location:
 - AOE GmbH, Kirchgasse 6, 65185 Wiesbaden
 - [Anfahrt](https://www.aoe.com/fileadmin/AOE.com/images/main_navigation/contact/locations/Anfahrtsbeschreibung_zu_AOE_in_Wiesbaden.pdf)
 
-Du bist dabei? Dann schnell auf [meetup.com](https://www.meetup.com/de-DE/frontend_rm/events/249491976/) zusagen!
+Du bist dabei? Dann schnell auf [meetup.com](https://www.meetup.com/de-DE/frontend_rm/events/250650266/) zusagen!
 
 Hinweis für XING-User: Da sich mehr als 75% der Teilnehmer über meetup.com registrieren sparen wir uns ab sofort den Aufwand mit XING. Bitte registriert euch kostenlos bei meetup.com, das geht ganz schnell und so erfahrt ihr auch besser von ähnlichen Meetups, danke!
 
