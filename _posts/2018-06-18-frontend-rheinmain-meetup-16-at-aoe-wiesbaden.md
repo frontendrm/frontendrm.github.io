@@ -13,7 +13,11 @@ Nachdem das Treffen im April krankheitsbedingt ausfallen musste, haben wir für 
 
 **Jochen Weber (Vicampo)** zeigt, wie mit dem Open Source Framework "Gauge" User Acceptance Tests automatisiert werden können.
 
-Als Special Guest konnten wir **Google Developer Expert [Manfred Steyer](https://www.softwarearchitekt.io)** gewinnen. Seine Session dreht sich um "Architekturen für große Angular-Anwendungen im Enterprise-Umfeld: Pakete, Monorepos, Microfrontends und Co." Darum geht's: Angular bietet sich für große Geschäftsanwendungen an. Doch wie strukturiert man sie am besten, um eine langfristige Wartbarkeit zu gewähren? Diese Session gibt unter Verwendung einer Fallstudie gleich mehrere Antworten auf diese Frage. Ihr erfahrt, wie ihr Anwendungen in einzelne wiederverwendbare npm-Pakte aufteilen und über eine Registry verteilen könnt. Zusätzlich lernt ihr den Monorepo-Ansatz kennen und sehen, wie die Idee hinter Microservices und Microfrontends weiterhilft. Am Ende habt ihr einen Überblick über die vorherrschenden Möglichkeiten und könnt diese vor dem Hintergrund Eurer eigenen Projekte bewerten.
+Als Special Guest konnten wir **Google Developer Expert [Manfred Steyer](https://www.softwarearchitekt.io)** gewinnen.
+
+Seine Session dreht sich um "**Architekturen für große Angular-Anwendungen im Enterprise-Umfeld: Pakete, Monorepos, Microfrontends und Co.**"
+
+Darum geht's: Angular bietet sich für große Geschäftsanwendungen an. Doch wie strukturiert man sie am besten, um eine langfristige Wartbarkeit zu gewähren? Diese Session gibt unter Verwendung einer Fallstudie gleich mehrere Antworten auf diese Frage. Ihr erfahrt, wie ihr Anwendungen in einzelne wiederverwendbare npm-Pakte aufteilen und über eine Registry verteilen könnt. Zusätzlich lernt ihr den Monorepo-Ansatz kennen und sehen, wie die Idee hinter Microservices und Microfrontends weiterhilft. Am Ende habt ihr einen Überblick über die vorherrschenden Möglichkeiten und könnt diese vor dem Hintergrund Eurer eigenen Projekte bewerten.
 
 Ablauf:
 - 18.00 Uhr: Doors open, Ankommen, Getränk nehmen, Tach sagen
