@@ -1,7 +1,7 @@
 ---
 layout: post
 pretitle: 16. Meetup am 18. Juni bei AOE
-title: Enterprise Angular, Pupeteer-Fetchbot, Gauge-Testautomatisierung
+title: Angular- & Testing-Special mit Special Guest Manfred Steyer (Google Dev Expert)
 author: Jan Deppisch
 author_twitter: netzartist
 published: true
