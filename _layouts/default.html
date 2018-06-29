@@ -20,7 +20,7 @@
 	<link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/apple-touch-icon-precomposed.png">
 	<link rel="dns-prefetch" href="//s3.amazonaws.com">
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
-	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css"/>
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css"/>
 	<link href='http://fonts.googleapis.com/css?family=Syncopate:400,700' rel='stylesheet' type='text/css'>
 
 	<!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
@@ -30,25 +30,15 @@
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 
-<a href="https://github.com/frontendrm/frontendrm.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
-
 <div class="wrapper-masthead">
-	<div class="container">
-		<header class="masthead clearfix">
-			<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"/></a>
-
-			<div class="site-info">
-				<h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-
-				<p class="site-description">{{ site.description }}</p>
-			</div>
-
-			<nav>
-				<a href="/">Blog</a>
-				<a href="{{ site.baseurl }}/about">Über</a>
-			</nav>
-		</header>
-	</div>
+    <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"/></a>
+		<nav class="container">
+            <a href="/archiv">Archiv</a>
+            <a href="{{ site.baseurl }}/about">Über</a>
+			<a href="https://twitter.com/frontend_rm">Twitter</a>
+        </nav>
+    </header>
 </div>
 
 <div id="main" role="main" class="container">
@@ -59,8 +49,7 @@
 	<div class="container">
 		<footer class="footer">
 			{% include svg-icons.html %}
-			{% include wiesbaden-rheinmain.html %}
-			<a href="{{ site.baseurl }}/imprint">Impressum</a>
+			<a class="clearfix" href="{{ site.baseurl }}/imprint">Impressum</a>
 		</footer>
 	</div>
 </div>

@@ -15,7 +15,7 @@ Der futuristische "Space" der [SYZYGY](http://www.syzygy.de/innenleben/syzygy-fr
 
 Herzlichen Dank an Sascha, Christian und Jens sowie an SYGYZY für die Top-Organisation und das Sponsoring!
 
-![""]({{ site.url }}/assets/2016-05-12/img/img4.jpg)
-![""]({{ site.url }}/assets/2016-05-12/img/img1.jpg)
-![""]({{ site.url }}/assets/2016-05-12/img/img2.jpg)
-![""]({{ site.url }}/assets/2016-05-12/img/img3.jpg)
+![""]({{ site.url }}/attachments/2016-05-12/img/img4.jpg)
+![""]({{ site.url }}/attachments/2016-05-12/img/img1.jpg)
+![""]({{ site.url }}/attachments/2016-05-12/img/img2.jpg)
+![""]({{ site.url }}/attachments/2016-05-12/img/img3.jpg)

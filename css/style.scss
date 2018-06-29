@@ -5,8 +5,8 @@
 // IMPORTS
 //
 
-@import "_reset";
-@import "_variables";
+@import "../_scss/reset";
+@import "../_scss/variables";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -165,7 +165,7 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 20px 0 0 0;
   border-bottom: 1px solid $lightgray;
 
   @include mobile {
@@ -174,19 +174,13 @@ img {
 }
 
 .site-avatar {
-  float: left;
-  width: 270px;
-  height: auto;
-  margin-right: 15px;
+  display: block;
+  text-align: center;
+  margin-bottom: 20px;
+
   &:hover,
   &:active {
     background: none;
-  }
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
   }
 
   img {
@@ -195,10 +189,9 @@ img {
 }
 
 .site-info {
-  float: left;
+  text-align: center;
 
   @include mobile {
-    float: none;
     display: block;
     margin: 0 auto;
   }
@@ -224,32 +217,33 @@ img {
   }
 }
 
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+header {
+  background: $black;
+}
 
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
+nav {
+  display: flex;
+  margin: 20px 20px 0 20px;
 
   a {
-    margin-left: 20px;
-    color: $gray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    display: block;
+    padding: 5px 10px;
+    font-size: 18px;
+    flex: 0 1 auto;
+    background: $orange;
+    color: $white;
+    margin-left: 10px;
 
-    @include mobile {
-      margin: 0 10px;
-      color: $orange;
+    &:first-child {
+      margin-left: 0;
     }
   }
 }
+
+
+
+
+
 
 //
 // .main

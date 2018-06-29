@@ -9,7 +9,7 @@ published: true
 
 Anfang 2014 als kleines Meetup von Frontend-Entwicklern in Wiesbaden gestartet hat sich die Frontend Usergroup RheinMain mittlerweile zu einem festen Bestandteil der Frontend-Szene im Großraum Frankfurt / Wiesbaden entwickelt. Alle 2-3 Monate tauschen sich Webworker in wechselnden Locations zu aktuellen Themen der Webentwicklung aus. Zum 10. Treffen im September 2016 konnten wir den Microsoft Developer Evangelisten [Christian Heilmann](https://twitter.com/codepo8) für einen Talk in Kinofilmlänge gewinnen - der Rekord von rund 50 Teilnehmern war daher nicht wirklich mehr überraschend...
 
-![""]({{ site.url }}/assets/2016-09-15/img/20160915_202406.jpg)
+![""]({{ site.url }}/attachments/2016-09-15/img/20160915_202406.jpg)
 
 Christians Thema war "Progressive Web und die Probleme von Javascript". Für alle, die den Talk an dem Abend nicht live verfolgen konnten, lohnt es sich, das Video einmal komplett anzuschauen:
 
@@ -26,9 +26,9 @@ Die Slides zum kompletten Nachlesen (englisch):
 
 Leider nicht mehr auf das Video geschafft hat es die unterhaltsame Q&A-Session, bei der es erwartungsgemäß um den aktiv von Microsoft zu Grabe getragenen Internet Explorer sowie den modernen Edge Browser ging, der uns Webentwicklern kaum noch Angriffsfläche bietet :-) 
 
-![""]({{ site.url }}/assets/2016-09-15/img/20160915_200557.jpg)
+![""]({{ site.url }}/attachments/2016-09-15/img/20160915_200557.jpg)
 
-![""]({{ site.url }}/assets/2016-09-15/img/20160915_202436.jpg)
+![""]({{ site.url }}/attachments/2016-09-15/img/20160915_202436.jpg)
 
 Ein Riesendank geht an das Headquarter der [AOE GmbH](http://www.aoe.com) in Wiesbaden, das erneut die Location und die Verpflegung der Teilnehmer sponsorte. Ebenso herzlichen Dank den durchweg begeisterten Teilnehmern, an Patricia für die selbstgebackenen [Kuchen](https://twitter.com/trishi_de/status/776704826856108032), und natürlich an Christian, der sich so viel Zeit für die Usergroup genommen hat!
 

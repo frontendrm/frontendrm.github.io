@@ -9,9 +9,9 @@ published: true
 
 Spannende Perspektiven, nicht nur auf Frontend-Themen: Beim 13. Treffen im Mai waren wir zu Gast bei der [DB Systel](https://www.dbsystel.de/) ([@DB_Skydeck](https://twitter.com/DB_Skydeck)) im 30. Stock des "Silvertower". Der Ausblick war grandios:
 
-![""]({{ site.url }}/assets/2017-05-11/img/20170511_212843.jpg)
+![""]({{ site.url }}/attachments/2017-05-11/img/20170511_212843.jpg)
 
-![""]({{ site.url }}/assets/2017-05-11/img/20170511_212857.jpg)
+![""]({{ site.url }}/attachments/2017-05-11/img/20170511_212857.jpg)
 
 Nachdem sich die über 50 Teilnehmer für's Erste satt-gesehen und (dank des reichhaltigen Buffets) -gegessen hatten, wurde zu 4 Talks gelauscht.
 
@@ -28,9 +28,9 @@ CSS-Conf Best Of ([Patricia Roß](https://twitter.com/trishi_de) + [Jan Deppisch
 
 Die bunte Themenmischung bot gute Unterhaltung und viel Gesprächsstoff in den Pausen. Nach einer abschliessenden Führung ein Stockwerk höher, um den Nachthimmel über Frankfurt zu geniessen, endete der Abend gegen 23 Uhr erwartungsgemäss spät :-)
 
-![""]({{ site.url }}/assets/2017-05-11/img/20170511_202037.jpg)
+![""]({{ site.url }}/attachments/2017-05-11/img/20170511_202037.jpg)
 
-![""]({{ site.url }}/assets/2017-05-11/img/20170511_214208.jpg)
+![""]({{ site.url }}/attachments/2017-05-11/img/20170511_214208.jpg)
 
 Ein großes Dankeschön erneut an die DB Systel für das großzügige Hosting - wir waren sicher nicht zum letzten Mal hier.
 
