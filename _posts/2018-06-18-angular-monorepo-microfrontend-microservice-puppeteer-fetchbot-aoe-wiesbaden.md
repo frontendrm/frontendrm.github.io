@@ -1,8 +1,7 @@
 ---
 layout: post
 pretitle: Bericht vom Frontend RheinMain Meetup Nr. 16 am 18. Juni
-title: Enterprise-Softwafreakyweb!183
-rearchitektur und Automatisierung von UI-Interaktionen
+title: Enterprise-Softwarearchitektur und Automatisierung von UI-Interaktionen
 published: true
 ---
 
