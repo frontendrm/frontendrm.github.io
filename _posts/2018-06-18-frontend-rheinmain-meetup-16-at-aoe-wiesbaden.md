@@ -1,7 +1,8 @@
 ---
 layout: post
 pretitle: Bericht vom Frontend RheinMain Meetup Nr. 16 am 18. Juni
-title: Enterprise-Softwarearchitektur und Automatisierung von UI-Interaktionen
+title: Enterprise-Softwafreakyweb!183
+rearchitektur und Automatisierung von UI-Interaktionen
 published: true
 ---
 
@@ -21,7 +22,7 @@ published: true
 
 Weitere Informationen:
 - [Slides (PDF)](https://speakerd.s3.amazonaws.com/presentations/c80d691b0dc84e559081a15f09b4265c/FERM.pdf)
-- [Repo](https://github.com/AOEpeople/puppeteer-fetchbot)
+- [NPM-Repo](https://www.npmjs.com/package/fetchbot)
 
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Bühne frei für <a href="https://twitter.com/ManfredSteyer?ref_src=twsrc%5Etfw">@ManfredSteyer</a> mit seiner Session zu Paketen, Monorepos, Microfrontends &amp; Co im Angular-Umfeld <a href="https://t.co/ldtEPZ2lKP">pic.twitter.com/ldtEPZ2lKP</a></p>&mdash; Frontend RheinMain (@frontend_rm) <a href="https://twitter.com/frontend_rm/status/1008781239602569216?ref_src=twsrc%5Etfw">18. Juni 2018</a></blockquote>
