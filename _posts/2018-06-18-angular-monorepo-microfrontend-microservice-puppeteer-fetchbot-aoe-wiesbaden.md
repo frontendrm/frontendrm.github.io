@@ -12,8 +12,6 @@ published: true
 
 [Bernhard](https://twitter.com/BB48980099) stellte sein auf Puppeteer aufsetzendes Open Source Tool "[Fetchbot](https://github.com/AOEpeople/puppeteer-fetchbot)" vor, mit dem einerseits Interaktionen in einer deklarativen Form im Chrome Browser ausgeführt und andererseits Daten aus Seiten extrahiert werden können. Webseiten lassen sich damit wie eine API "konsumieren".
 
-
-
 <iframe width="705" height="396" src="https://www.youtube.com/embed/t71saoi4slQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
