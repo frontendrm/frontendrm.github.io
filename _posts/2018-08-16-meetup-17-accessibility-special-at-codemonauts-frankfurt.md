@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Frontend RheinMain Meetup #17 am 16. August in Frankfurt
+pretitle: Frontend RheinMain Meetup Nr. 17 am 16. August in Frankfurt
 title: Accessibility-Special und Ticketverlosung
 published: true
 ---
@@ -11,7 +11,7 @@ Am Donnerstag, 16. August sind wir in Frankfurt bei den [Codemonauts](https://co
  
 __Unter allen Teilnehmern verlosen wir ein Freiticket im Wert von über 400 € für die [International JavaScript Conference](https://javascript-conference.com/) vom 15. bis 19. Oktober in München__
 
-Also, jetzt anmelden und Plätze sichern!
+[Also, jetzt anmelden und Plätze sichern!](https://www.meetup.com/de-DE/frontend_rm/events/253415153/)
 
 Wir starten um 19 Uhr.
 
