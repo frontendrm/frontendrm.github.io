@@ -9,7 +9,7 @@ published: true
 
 Am Donnerstag, 16. August sind wir in Frankfurt bei den [Codemonauts](https://codemonauts.com/) zu Gast. Der große Schwerpunkt wird diesmal ein ca. 1,5-stündiges Accessibility-Special sein. Boris Diakur ([AOE](https://aoe.com)) schärft in seiner Session das Bewusstsein für Web-Accessibility und vermittelt essentielles Knowhow, welches in Webprojekten aller Art eingesetzt werden sollte. Die Session richtet sich generell an alle Webworker sowie Entwickler, die die Grundlagen verstehen und praxisorientiert einsetzen möchten. 
  
-__Unter allen Teilnehmern verlosen wir ein Freiticket im Wert von über 400 € für die [International JavaScript Conference](https://javascript-conference.com/) vom 15. bis 19. Oktober in München__
+__Unter allen Teilnehmern verlosen wir ein Freiticket im Wert von über 1.000 € für die [International JavaScript Conference](https://javascript-conference.com/) vom 16. bis 18. Oktober in München__
 
 [Also, jetzt anmelden und Plätze sichern!](https://www.meetup.com/de-DE/frontend_rm/events/253415153/)
 
