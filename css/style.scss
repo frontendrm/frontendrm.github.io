@@ -303,8 +303,12 @@ nav {
   }
 
   h2 {
-    color: $orange;
+    color: $lightgray;
     font-weight: bold;
+
+    h1 + & {
+      margin-top: 0;
+    }
   }
 
   blockquote {
