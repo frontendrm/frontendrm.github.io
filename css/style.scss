@@ -60,7 +60,7 @@ h1 {
 
 h2 {
   font-weight: 400;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 h3 {
@@ -299,18 +299,6 @@ nav {
     }
     &.has-subtitle:after {
       display: none;
-    }
-  }
-
-  h2 {
-    padding-left: 1.5em;
-    margin: 0 0 1em 0;
-    &:after {
-      content: ">";
-      color: $orange;
-      display: inline;
-      font-weight: bold;
-      padding-left: 0.5em;
     }
   }
 
