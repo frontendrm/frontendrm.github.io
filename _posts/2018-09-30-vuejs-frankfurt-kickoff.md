@@ -5,7 +5,7 @@ title: Vue.js Frankfurt Kickoff
 published: true
 ---
 
-Das kann man wohl ein erfolgreiches Kickoff nennen! Am Dienstag, 25. September, haben sich über 80 Vue-Fans bei Fastbill ([https://www.fastbill.com/](https://www.fastbill.com/)) in Bockenheim eingefunden, um ein neues MeetUp im RheinMain-Ecosystem zu begrüßen.
+Das kann man wohl ein erfolgreiches Kickoff nennen! Am Dienstag, 25. September, haben sich über 80 Vue-Fans bei [Fastbill]((https://www.fastbill.com/) in Bockenheim eingefunden, um ein neues MeetUp im RheinMain-Ecosystem zu begrüßen.
 
 Die drei Organisatoren - Victoria ([@vicbergquist]([https://twitter.com/vicbergquist/), Michael ([@m_ic](https://twitter.com/m_ic/)) und Alexander ([@ahus1de](https://twitter.com/ahus1de/)) - haben sich gut vorbereitet und Fastbill als kurzfristig eingesprungener Location-Sponsor hat nicht nur einen sehr liebevoll dekorierten Raum zur Verfügung gestellt, sondern auch leckere und reichlich Verpflegung.
 
