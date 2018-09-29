@@ -5,9 +5,11 @@ title: Vue.js Frankfurt Kickoff
 published: true
 ---
 
+!["Foto (c) Victoria Bergquist"]({{ site.url }}/attachments/2018-09-30/img/vuejs-frankfurt-kickoff-101230f4-85b2-46a4-9f7c-d7e33236720f.jpeg)
+
 Das kann man wohl ein erfolgreiches Kickoff nennen! Am Dienstag, 25. September, haben sich über 80 Vue-Fans bei [Fastbill](https://www.fastbill.com/) in Bockenheim eingefunden, um ein neues MeetUp im RheinMain-Ecosystem zu begrüßen.
 
-Die drei Organisatoren - Victoria ([@vicbergquist]([https://twitter.com/vicbergquist/), Michael ([@m_ic](https://twitter.com/m_ic/)) und Alexander ([@ahus1de](https://twitter.com/ahus1de/)) - haben sich gut vorbereitet und Fastbill als kurzfristig eingesprungener Location-Sponsor hat nicht nur einen sehr liebevoll dekorierten Raum zur Verfügung gestellt, sondern auch leckere und reichlich Verpflegung.
+Die drei Organisatoren - Victoria ([@vicbergquist]([https://twitter.com/vicbergquist/)), Michael ([@m_ic](https://twitter.com/m_ic/)) und Alexander ([@ahus1de](https://twitter.com/ahus1de/)) - haben sich gut vorbereitet und Fastbill als kurzfristig eingesprungener Location-Sponsor hat nicht nur einen sehr liebevoll dekorierten Raum zur Verfügung gestellt, sondern auch leckere und reichlich Verpflegung.
 
 Das Interesse an Vue.js und dem neuen Vue.js-Frankfurt-MeetUp ist groß. Die Teilnehmer kamen von ganz nah (300m vom Veranstaltungsort entfernt) und fern (Gießen, Heidelberg, Fulda, um nur ein paar zu nennen). Auch die Erfahrung, die die Teilnehmer bereits mit Vue gemacht haben, ist sehr unterschiedlich; einige kennen Vue.js vom Namen, andere nutzen es täglich und das schon seit Jahren. Aber genau das ist kein Problem für das neue Vue.js-Frankfurt sondern sogar erwünscht. Das Ziel ist es Vue-Freunde unabhängig von Expertise und Hintergrund zu verbinden.
 
@@ -38,8 +40,6 @@ Es war definitiv ein gelungener, und Input- und Sticker-reicher Abend, der den O
 
 
 ## Bilder
-
-!["Foto (c) Victoria Bergquist"]({{ site.url }}/attachments/2018-09-30/img/vuejs-frankfurt-kickoff-101230f4-85b2-46a4-9f7c-d7e33236720f.jpeg)
 
 !["Foto (c) Anett Gesierich"]({{ site.url }}/attachments/2018-09-30/img/IMG_20180925_194311-b2ec3e9a-2960-447a-951e-2d64fe45b842.jpg)
 
