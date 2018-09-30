@@ -17,6 +17,8 @@ Die Talks werden beide in Deutsch gehalten.
 
 Unser Sponsor für dieses Event ist [Comwrap](https://www.comwrap.com/). Sie stellen uns freundlicherweise Ihre Räumlichkeiten (im 19. Stock inkl. Blick über Frankfurt!) zur Verfügung und werden uns außerdem mit Snacks und Getränken versorgen!
 
+![]({{ site.url }}/attachments/2018-20-01/img/catering_comwrap.jpg)
+
 Die Teilnehmerzahl ist aus Platzgründen auf 50 Personen begrenzt, daher bitte schnell anmelden:
 
 [Alle Details und Anmeldung](https://www.meetup.com/de-DE/CSSFrankfurt/events/255052999/)
