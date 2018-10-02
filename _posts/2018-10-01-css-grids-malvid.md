@@ -5,7 +5,7 @@ title: CSS Grid im Detail + UI Components
 published: true
 ---
 
-![]({{ site.url }}/attachments/2018-20-01/img/visual.jpg)
+![]({{ site.url }}/attachments/2018-10-01/img/visual.jpg)
 
 Gemeinsam mit [CSS Frankfurt](http://www.cssfrankfurt.de) veranstalten wir am 25. Oktober ein spannendes CSS-Special:
 
@@ -17,7 +17,7 @@ Die Talks werden beide in Deutsch gehalten.
 
 Unser Sponsor für dieses Event ist [Comwrap](https://www.comwrap.com/). Sie stellen uns freundlicherweise Ihre Räumlichkeiten (im 19. Stock inkl. Blick über Frankfurt!) zur Verfügung und werden uns außerdem mit Snacks und Getränken versorgen!
 
-![]({{ site.url }}/attachments/2018-20-01/img/catering_comwrap.jpg)
+![]({{ site.url }}/attachments/2018-10-01/img/catering_comwrap.jpg)
 
 Die Teilnehmerzahl ist aus Platzgründen auf 50 Personen begrenzt, daher bitte schnell anmelden:
 
