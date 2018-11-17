@@ -1,7 +1,7 @@
 ---
 layout: post
 pretitle: Frontend RheinMain Meetup am 11.12. in Frankfurt 
-title: "Conference-Highlights 2018" + Schrottwichteln
+title: Conference-Highlights 2018 + Schrottwichteln
 published: true
 ---
 
