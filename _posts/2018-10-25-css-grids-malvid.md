@@ -5,7 +5,7 @@ title: CSS Grid im Detail + UI Components
 published: true
 ---
 
-CSS Grids als mächtigem Layout-Tool steht eine großartige Zukunft bevor. Wenn man das wesentliche Konzept einmal verstanden hat, kann man - dank gutem Support in modernen Browsern - unkompliziert mit kleinen Schritten damit anfangen. Wenn dann noch ein Entwickler, der sich sehr gut damit auskennt, nach Frankfurt kommt, um das ganze Thema knackig vorzustellen - was will man mehr? Am 25. hatten hatte [CSS Frankfurt](https://cssfrankfurt.de/) dazu Sven Wolfermann ([@maddesigns](http://twitter.com/maddesigns)) zu Gast.
+CSS Grids als mächtigem Layout-Tool steht eine großartige Zukunft bevor. Wenn man das wesentliche Konzept einmal verstanden hat, kann man - dank gutem Support in modernen Browsern - unkompliziert mit kleinen Schritten damit anfangen. Wenn dann noch ein Entwickler, der sich sehr gut damit auskennt, nach Frankfurt kommt, um das ganze Thema knackig vorzustellen - was will man mehr? Am 25. hatten [CSS Frankfurt](https://cssfrankfurt.de/) dazu Sven Wolfermann ([@maddesigns](http://twitter.com/maddesigns)) zu Gast.
  
  <iframe width="705" height="396" src="https://www.youtube.com/embed/Xl1niF7M4Ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
