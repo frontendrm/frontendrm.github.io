@@ -9,7 +9,7 @@ CSS Grids als mächtigem Layout-Tool steht eine großartige Zukunft bevor. Wenn 
  
  <iframe width="705" height="396" src="https://www.youtube.com/embed/Xl1niF7M4Ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- [Die Slides findet ihr hier](maddesigns.de/css-grids/)
+ [Die Slides findet ihr hier](http://maddesigns.de/css-grids/)
  
  
  Neben Svens Talk zu CSS Grids stellte Tobias Reich ([@electerious](http://twitter.com/electerious)) sein Tool [Malvid](http://malvid.io/) vor. Damit lassen sich sehr einfach UI-Komponenten entwickeln und dokumentieren. Was es von anderen Pattern Libraries unterscheidet ist die einfache Installation, nur wenige Struktur- / Naming-Vorgaben und die Möglichkeit, UI-Komponenten miteinander zu kombinieren sowie mit Dummy-Daten anzureichern. Einfach mal die Live-Demo anschauen!
