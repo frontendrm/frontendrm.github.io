@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Loads of linktipps for your winter holidays :)
+pretitle: Link tipps for your winter holidays :)
 title: Conference-Highlights 2018
 published: true
 ---
