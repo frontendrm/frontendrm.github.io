@@ -1,6 +1,6 @@
 ---
 layout: post
-pretitle: Load of linktipps for your winter holidays :)
+pretitle: Loads of linktipps for your winter holidays :)
 title: Conference-Highlights 2018
 published: true
 ---
@@ -46,6 +46,8 @@ published: true
 - cutting edge web topics
 - inspiring and entertaining speakers
 - excellent organization & cozy atmosphere
+
+## Highlights:
 
 - ["Web-Performance & accessibility](https://estelle.github.io/fronteers/) ([Estelle Weyl](http://www.standardista.com/))
 - "Web Fonts in 2018" ([Chris Lilley](https://t.co/nZXSuylQnj))
