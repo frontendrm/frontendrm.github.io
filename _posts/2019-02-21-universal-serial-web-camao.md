@@ -9,7 +9,7 @@ published: true
 
 [Please register directly here](https://www.meetup.com/de-DE/frontend_rm/events/258015496/)
 
-As a web developer it´s easy to feel intimidated by the world of hardware hacking and the physical web, we have to leave our comfort zone and need to get familiar with a completely new development environment. But not anymore, thanks to wonderful possibilities that the WebUSB API brings to our browsers. In this talk [Sebastian Golasch](https://asciidisco.com/) will give an intro to the endless wonders we can encounter in the hardware world through our browser windows. Aside from leaerning the basics of USB and serial port communication, we'll paint on USB displays, live tweet to receipt printers, control an Arduino, steal data from Android phones and many more... The only limit is your imagination.
+As a web developer it´s easy to feel intimidated by the world of hardware hacking and the physical web, we have to leave our comfort zone and need to get familiar with a completely new development environment. But not anymore, thanks to wonderful possibilities that the WebUSB API brings to our browsers. In this talk [Sebastian Golasch](https://asciidisco.com/) will give an intro to the endless wonders we can encounter in the hardware world through our browser windows. Aside from learning the basics of USB and serial port communication, we'll paint on USB displays, live tweet to receipt printers, control an Arduino, steal data from Android phones and many more... The only limit is your imagination.
 
 About Sebastian Golasch
 
