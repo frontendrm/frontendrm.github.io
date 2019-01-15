@@ -1,7 +1,7 @@
 ---
 layout: post
-pretitle: Frontend RheinMain Meetup on 21th Feb in Darmstadt 
-title: Upcoming Meetup: "The Universal Serial Web"
+pretitle: Upcoming Frontend RheinMain Meetup on 21th Feb in Darmstadt 
+title: The Universal Serial Web
 published: true
 ---
 
