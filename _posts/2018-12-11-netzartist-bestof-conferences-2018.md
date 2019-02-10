@@ -171,9 +171,10 @@ I can recommend to go to these conferences:
 
 - [JS-Kongress](https://js-kongress.com/) Munich: Mar 11-12 
 - [Javascript Days](https://www.javascript-days.de) Munich: Mar 18-21
-- [EnterJS](https://www.enterjs.de/) Darmstadt: June 25-28
 - [Beyond Tellerrand](https://beyondtellerrand.com/) Düsseldorf: May 13-15
-- [AngularConnect](http://angularconnect.com/) London: Date TBA
+- [EnterJS](https://www.enterjs.de/) Darmstadt: Jun 25-28
+- [ng Berlin](https://ng-de.org/) Berlin: Aug 30-31
+- [AngularConnect](http://angularconnect.com/) London: Sep 19-20
 
 
  
