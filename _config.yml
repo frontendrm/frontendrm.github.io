@@ -21,7 +21,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-avatar: https://cloud.githubusercontent.com/assets/8395991/3862062/81fb56d2-1f36-11e4-9fbb-d0af073157fa.png
+avatar: /logo-github-pages.png
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:

@@ -84,8 +84,8 @@ a {
   background: transparent;
   &:hover,
   &:active {
-    color: $lightbrown;
-    background: $brown;
+    color: $lightbeige;
+    background: $beige;
   }
 }
 
@@ -131,13 +131,13 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $lightbrown;
-  background: $brown;
+  color: $lightbeige;
+  background: $beige;
 }
 
 ::selection {
-  color: $lightbrown;
-  background: $brown;
+  color: $lightbeige;
+  background: $beige;
 }
 
 // Nicolas Gallagher's micro clearfix hack
