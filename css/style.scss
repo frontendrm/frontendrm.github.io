@@ -18,9 +18,9 @@ html {
 }
 
 body {
-  background: $white;
+  background: #eee;
   font: 18px/1.4 $helvetica;
-  color: $gray;
+  color: $black;
 }
 
 iframe,
@@ -176,16 +176,12 @@ img {
 .site-avatar {
   display: block;
   text-align: center;
-  margin-bottom: 20px;
 
   &:hover,
   &:active {
     background: none;
   }
 
-  img {
-    border-radius: 5px;
-  }
 }
 
 .site-info {
